@@ -1,1 +1,1 @@
-# CurroptedFilesAI
+# CorruptedFilesAI

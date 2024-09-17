@@ -28,3 +28,17 @@ def collect_pdfs():
         print(
             f"Failed to retrieve repository contents. Status code: {response.status_code}"
         )
+
+
+def shorten_filenames():
+    download_folder = "./input/pdfs/"
+    max_length = 200  # Max length for Windows file paths is 260 characters
+
+    for filename in os.listdir(download_folder):
+        if filename.endswith(".pdf"):
+            file_path = os.path.join(download_folder, filename)
+            if len(filename) > max_length:
+                new_filename = filename[:max_length] + ".pdf"
+                new_file_path = os.path.join(download_folder, new_filename)
+                os.rename(file_path, new_file_path)
+                print(f"Renamed {filename} to {new_filename}")

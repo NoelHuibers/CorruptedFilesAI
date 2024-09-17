@@ -31,7 +31,7 @@ def collect_pdfs():
 
 
 def shorten_filenames():
-    download_folder = "./input/pdfs/"
+    download_folder = "./input/corrupted/"
     max_length = 200  # Max length for Windows file paths is 260 characters
 
     for filename in os.listdir(download_folder):

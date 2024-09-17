@@ -16,7 +16,7 @@ def main():
     # collect_pdfs()
     #
     # For shortening the filenames (Windows has a limit of 260 characters for file paths)
-    shorten_filenames()
+    # shorten_filenames()
     #
     # For corrupting the PDFs
     # corruption_methods = [
@@ -25,7 +25,7 @@ def main():
     #     truncate_pdf,
     #     corrupt_object_references,
     # ]
-    # corrupt_pdf_dataset("./input/corrputedpdfs", corruption_methods)
+    # corrupt_pdf_dataset("./input/corrupted", corruption_methods)
 
 
 if __name__ == "__main__":

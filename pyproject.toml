@@ -1,13 +1,13 @@
 [project]
 authors = [{ name = "Noel Huibers", email = "noel@huibers.io" }]
-name = "CurroptedFilesAI"
+name = "CorruptedFilesAI"
 version = "0.0.2"
-description = "Detecting corrupted files using machine learning"
+description = "A Python-based AI tool that detects corrupted PDF files using machine learning models trained on hexcode representation of PDF files."
 readme = "README.md"
 requires-python = ">=3.8"
 license = { file = 'LICENSE' }
 classifiers = [
-  "Development Status :: 3 - Alpha",
+  "Development Status :: 4 - Beta",
   "Natural Language :: English",
   "Operating System :: Windows",
   "Programming Language :: Python :: 3",

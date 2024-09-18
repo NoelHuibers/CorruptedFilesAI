@@ -19,13 +19,13 @@ def main():
     # shorten_filenames()
     #
     # For corrupting the PDFs
-    # corruption_methods = [
-    #     randomly_corrupt_pdf,
-    #     remove_pdf_markers,
-    #     truncate_pdf,
-    #     corrupt_object_references,
-    # ]
-    # corrupt_pdf_dataset("./input/corrupted", corruption_methods)
+    corruption_methods = [
+        randomly_corrupt_pdf,
+        remove_pdf_markers,
+        truncate_pdf,
+        corrupt_object_references,
+    ]
+    corrupt_pdf_dataset("./input/corrupted", corruption_methods)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,3890 @@
+[
+  {
+    "file": "100G%20Networking%20Technology%20Overview%20-%20Slides%20-%20Toronto%20(August%202016).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "2018 CppCon Unwinding the Stack - Exploring how C++ Exceptions work on Windows - James McNellis.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "37%20Million%20Compilations%20-%20Investigating%20Novice%20Programming%20Mistakes%20in%20Large-Scale%20Student%20Data%20(fp1187-altadmri).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "5-Level%20Paging%20and%205-Level%20EPT%20-%20Intel%20-%20Revision%201.0%20(December%2C%202016).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "5-Level%20Paging%20and%205-Level%20EPT%20-%20Intel%20-%20Revision%201.1%20(May%2C%202017).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A Framework for Building Extensible C++ Class Libraries - 1993.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Block-sorting%20Lossless%20Data%20Compression%20Algorithm%20-%20May%2010th%2C%201994%20(SRC-RR-124).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Brief%20Introduction%20to%20Neural%20Networks%20(neuronalenetze-en-zeta2-2col-dkrieselcom).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Brief%20Introduction%20to%20the%20Standard%20Annotation%20Language%20(SAL)%20-%202006.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Brief%20Tutorial%20on%20Database%20Queries%2C%20Data%20Mining%2C%20and%20OLAP%20(hamel-197-manuscript-final).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Case%20Study%20in%20Optimizing%20HTM-Enabled%20Dynamic%20Data%20Structures%20-%20Patricia%20Tries%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Catalogue%20of%20Optimizing%20Transformations%20(1971-allen-catalog).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Comparison%20of%20Programming%20Languages%20in%20Economics%20(16-Jun-2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Comparison%20of%20Software%20and%20Hardware%20Techniques%20for%20x86%20Virtualization%20-%20Oct%202015%20(asplos235_adams).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20comparison%20of%20SPDY%20and%20HTTP%20performance%20-%20Microsoft%20Research%20(2012).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Compilation%20Target%20for%20Probabilistic%20Programming%20Languages%20-%202014%20(paige14).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20comprehensive%20study%20of%20Convergent%20and%20Commutative%20Replicated%20Data%20Types.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Comprehensive%20Study%20of%20Main-Memory%20Partitioning%20and%20its%20Application%20to%20Large-Scale%20Comparison-%20and%20Radix-Sort%20(sigmod14I).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Compressed%20Suffix%20Tree%20Based%20Implementation%20with%20Low%20Peak%20Memory%20Usage%20(2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Course%20in%20Machine%20Learning%20(ciml-v0_9-all).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Crash%20Course%20in%20x86%20Assembly%20for%20Reverse%20Engineers%20-%20SensePost%20(2014).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Detailed%20Analysis%20of%20the%20Component%20Object%20Model%20-%201989%20(Muijadi_okstate_0664M_1681).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Dive%20in%20to%20Hyper-V%20Architecture%20and%20Vulnerabilities%20-%20Slides%20(BlackHat%202018).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Dive%20in%20to%20Hyper-V%20Architecture%20and%20Vulnerabilities.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Durable%20Main-Memory%20Index%20Using%20Flash.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Family%20of%20Perfect%20Hashing%20Methods%20-%201996%20(TR0242).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Fast%20x86%20Implementation%20of%20Select%20-%202017%20(1706.00990).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Fast%2C%20Minimal%20Memory%2C%20Consistent%20Hash%20Algorithm%20(1406.2294).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Fast%2C%20Minimal%20Memory%2C%20Consistent%20Hash%20Algorithm%20(1406.2294v1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Faster%20Cutting%20Plane%20Method%20and%20its%20Implications%20for%20Combinatorial%20and%20Convex%20Optimization%20-%20MIT%20-%202015%20(1508.04874).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Few%20Billion%20Lines%20of%20Code%20Later%20-%20Using%20Static%20Analysis%20to%20Find%20Bugs%20in%20the%20Real%20World%20-%20ACM%20-%202010%20(BLOC-coverity).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Few%20Experiments%20with%20Intel's%20Cache%20Allocation%20Technology%20-%20Slides%20(2015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20File%20Comparison%20Program%20-%201985%20(10.1.1.189.70).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20File%20is%20Not%20a%20File%20-%20Understanding%20IO%20Behavior%20of%20Apple%20Desktop%20Applications%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20First%20Encounter%20with%20Machine%20Learning%20-%202011%20(IntroMLBook).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Forensic%20Analysis%20of%20CSG%2011%20Encounter%20with%20an%20Anomalous%20Aerial%20Vehicle.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20GPU-friendly%20Skiplist%20Algorith%20-%202014%20(GPUSkiplist).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20History%20of%20Modern%2064-bit%20Computing%20-%20Feb%202007%20(CSEP590A).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Journey%20in%20Creating%20an%20Operating%20System%20Kernel%20-%20The%20539Kernel%20Book%20(Nov%202022).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Little%20Journey%20Inside%20Windows%20Memory.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Locality-Sensitive%20Hash%20for%20Real%20Vectors%20(10.1.1.215.7690).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Lock-Free%20Wait-Free%20Hash%20Table%20-%20Slides%20(070221_LockFreeHash).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Look%20at%20Intel's%20Dataplane%20Development%20Kit%20(2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Malloc%20Tutorial%20(Feb%2016%2C%202009).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Mathematical%20Theory%20of%20Communication%20(1948).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Mathematician's%20Lament%20-%20Paul%20Lockhart.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Method%20for%20the%20Construction%20of%20Minimum-Redundancy%20Codes%20-%20Huffman%20(1952).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Nanopass%20Framework%20for%20Compiler%20Education.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20New%20Algorithm%20for%20Data%20Compression%20(1994).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20New%20Basis%20for%20Shifters%20in%20General-Purpose%20Processors%20for%20Existing%20and%20Advanced%20Bit%20Manipulations%20-%202009%20(IEEE_TC09_NewBasisForShifters).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Novel%20Hybrid%20Quicksort%20Algorithm%20Vectorized%20using%20AVX-512%20on%20Intel%20Skylake%20(1704.08579).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Novel%20Hybrid%20Quicksort%20Algorithm%20Vectorized%20using%20AVX-512%20on%20Intel%20Skylake%20-%202017%20(Paper_44-A_Novel_Hybrid_Quicksort_Algorithm_Vectorized).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20NUMA%20API%20for%20Linux%20-%20Novell%20(2005).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Parallel%20Page%20Cache-%20IOPS%20and%20Caching%20for%20Multicore%20Systems.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Pattern%20Language%20-%20Alexander.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20PlusCal%20User's%20Manual%20-%20C-Syntax%20Version%201.8%20(31%20Aug%202018).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Practical%20Guide%20to%20Support%20Vector%20Classification.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Practical%20Minimal%20Perfect%20Hashing%20Method%20(2005).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Primer%20on%20Memory%20Consistency%20and%20Cache%20Coherence%20(10.1.1.225.9278).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Primer%20on%20Memory%20Consistency%20and%20Cache%20Coherence%20-%202nd%20Edition.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Probabilistic%20Theory%20of%20Deep%20Learning%20(1504.00641v1).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Proposal%20for%20Hardware%20Assisted%20Arithmetic%20Overflow%20Detection%20-%202010%20-%20Slides%20(Mihocka-Troeger-CGO-WISH-2010_final).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Proposal%20for%20Hardware%20Assisted%20Arithmetic%20Overflow%20Detection%20for%20Array%20and%20Bitfield%20Operations%20(LazyOverflowDetect_Final).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Quick%20Guide%20To%20LaTeX.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Relational%20Model%20of%20Data%20for%20Large%20Shared%20Data%20Banks%20-%20E.F.%20Codd%20(1970).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Reliable%20Randomized%20Algorithm%20for%20the%20Closest-Pair%20Problem%20-%201997%20(CP-11.4.1997).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Scalable%20and%20Explicit%20Event%20Delivery%20Mechanism%20for%20UNIX.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Scalable%20Concurrent%20malloc%20Implementation%20for%20FreeBSD%20(jemalloc).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Scalable%20Lock-free%20Stack%20Algorithm%20(2004).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Sense%20of%20Self%20for%20Unix%20Processes%20-%201996%20(ieee-sp-96-unix).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Seven-Dimensional%20Analysis%20of%20Hashing%20Methods%20and%20its%20Implications%20on%20Query%20Processing%20-%202015%20(p249-richter).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20study%20of%20code%20abstraction%20(Patrick%20Lambert%20-%20Oct%2015th%2C%202014).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Study%20of%20Wheat%20and%20Chaff%20in%20Source%20Code%20(1502.01410v1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Survey%20of%20Rollback-Recovery%20Protocols%20in%20Message-Passing%20Systems%20(10.1.1.52.4299).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Systematic%20Evaluation%20of%20Transient%20Execution%20Attacks%20and%20Defenses%20-%2015th%20May%202019%20(1811.05441).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Tool%20for%20the%20Symbolic%20Execution%20of%20Linux%20Binaries%20-%20PySymemu%20(Slides).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20All%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20All%20(Short%20Version).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20All%20Huge%20(2011).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Index%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%201%20-%20Introduction%20-%20The%20Software%20Stack%20(2011).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%2010%20-%20Geometry%20Shaders%20(2011).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%2011%20-%20Stream-Out%20(2011).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%2012%20-%20Tessellation%20(2011).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%2013%20-%20Compute%20Shaders%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%202%20-%20GPU%20Memory%20Architecture%20and%20the%20Command%20Processor%20(2011).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%203%20-%203D%20Pipeline%20Overview%2C%20Vertex%20Processing%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%204%20-%20Texture%20Samplers%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%205%20-%20Primitive%20Assembly%2C%20Clip%20and%20Cull%2C%20Projection%2C%20and%20Viewport%20Transform%20(2011).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%206%20-%20(Triangle)%20Rasterization%20and%20Setup%20(2011).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%207%20-%20Z%20Stencil%20Processing%2C%203%20Different%20Ways.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%208%20-%20Pixel%20Processing%20(Fork%20Phase)%20(2011).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Trip%20Through%20The%20Graphics%20Pipeline%20-%20Part%209%20-%20Pixel%20Processing%20(Join%20Phase)%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Truly%20Concurrent%20Semantics%20for%20the%20K%20Framework%20Based%20on%20Graph%20Transformations%20-%20Slides%20(serbanuta-rosu-2012-icgt-slides).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Tunable%20Compression%20Framework%20for%20Bitmap%20Indices%20(Guzun_ICDE_2014).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "A%20Tutorial%20on%20Bayesian%20Optimization%20of%20Expensive%20Cost%20Functions%2C%20with%20Application%20to%20Active%20User%20Modeling%20and%20Hierarchical%20Reinforcement%20Learning%20-%20.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Versatile%20Graph%20Structure%20for%20Edge-Oriented%20Graph%20Algorithms%20-%201987%20(Ebert1987AVD).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Very%20Fast%20Substring%20Search%20Algorithm%20-%201999%20(p132-sunday).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "A%20Wavelet%20Tree%20Based%20FM-Index%20for%20Biological%20Sequences%20in%20SeqAn%20(January%2030%2C%202012).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "A%20Way%20Forward%20in%20Parallelising%20Dynamic%20Languages%20(PyPy%20Position%20Paper).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Abstract%20Algebra%20-%202016%20(aata-20160809-sage-7.3).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Abstract%20Rendering%20-%20Out-of-core%20Rendering%20for%20Information%20Visualization%20(2014).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Abusing%20Mach%20on%20Mac%20OS%20X%20-%20May%2C%202006%20(uninformed_v4a3).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Accelerating%20Network%20Receive%20Processing%20-%20Intel%20IO%20Acceleration%20Technology%20(ols2005v1-pages-289-296).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Achieving%20Full-Motion%20Video%20on%20the%20Nintnedo%2064%20-GDM%20(September%202000).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "ACPI%206.3%20Final%20(30%20Jan%202019).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Adaptive%20Insertion%20Policies%20for%20High%20Performance%20Caching%20(ISCA-2007-Qureshi-SetDuelingControl).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Adaptive%20Ray%20Packet%20Reordering%20-%202008%20(reorder_rt08).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Adaptive%20String%20Dictionary%20Compression%20in%20In-Memory%20Column-Store%20Database%20Systems%20(2014).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Adding%20Lock%20Elision%20to%20Linux%20-%20Slides%20(2012).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AddressSanitizer%20-%20A%20Fast%20Address%20Sanity%20Checker%20(atc12-final39).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Advanced%20Bloom%20Filter%20Based%20Algorithms%20for%20Efficient%20Approximate%20Data%20De-Duplication%20in%20Streams%20-%2017th%20Dec%202012%20(1212.3964v1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Advanced%20Data%20Structures%20-%20MIT%206.851%20(2012).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Advanced%20Topics%20in%20CUDA%20-%20Slides%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Advances%20in%20Cloud-Scale%20Machine%20Learning%20for%20Cyber-Defense%20-%20Russinovich%202017%20(exp-t11-advances-in-cloud-scale-machine-learning-for-cyber-defense).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Advances%20in%20Memory%20Management%20for%20Windows%20-%20October%2012%2C%202007%20(136_MemMgt).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Adversarial%20Reprogramming%20of%20Neural%20Networks%20(1806.11146v2).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Affinity%20Accept%20-%20Improving%20Network%20Connection%20Locality%20on%20Multicore%20Systems.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Agner Fog - C++ vector class library (2013).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Agner Fog - C++ vector class library v2 (2019).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Agner Fog - Calling Conventions for different C++ compilers and operating systems (2013-09-04).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Agner Fog - Calling Conventions for different C++ compilers and operating systems (2017-05-01).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Agner Fog - Optimizing Software in C++ (2014-08-07).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Agner Fog - Optimizing Software in C++ (2017-05-02).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Agner%20Fog%20-%20Instruction%20Tables%20(2013-04-03).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Agner%20Fog%20-%20Instruction%20Tables%20(2018-04-09).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Agner%20Fog%20-%20Microarchitecture%20of%20Intel%2C%20AMD%20and%20VIA%20CPUs%20-%20An%20optimization%20guide%20for%20assembly%20programmers%20and%20compiler%20makers%20(2013-09-04).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Agner%20Fog%20-%20Microarchitecture%20of%20Intel%2C%20AMD%20and%20VIA%20CPUs%20-%20An%20optimization%20guide%20for%20assembly%20programmers%20and%20compiler%20makers%20(2018-04-09).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Agner%20Fog%20-%20Optimizing%20Subroutines%20in%20Assembly%20Language%20-%20An%20optimization%20guide%20to%20x86%20platforms%20(2013-09-28).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Agner%20Fog%20-%20Optimizing%20Subroutines%20in%20Assembly%20Language%20-%20An%20optimization%20guide%20to%20x86%20platforms%20(2017-05-01).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Algebra%2C%20Topology%2C%20Differential%20Calculus%2C%20and%20Optimization%20Theory%20For%20Computer%20Science%20and%20Machine%20Learning%20-%202019%20(math-deep).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Algorithms%20for%20Random%203-SAT.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Algorithms%20for%20Routing%20Lookups%20and%20Packet%20Classification%20-%20PhD%20Thesis%20(Pankaj%20Gupta%2C%202000).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Alice's%20Adventures%20in%20a%20Differentiable%20Wonderland%20-%20A%20Primer%20on%20Designing%20Neural%20Networks%20-%20Volume%201%20-%20A%20Tour%20of%20the%20Land%20(May%2013%2C%202024).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Allocation%20Removal%20by%20Partial%20Evaluation%20in%20a%20Tracing%20JIT%20-%202010%20(bolz-allocation-removal).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Almost%20Random%20Graphs%20with%20Simple%20Hash%20Functions%20-%20Slides%20(2007).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Alpha%20AXP%20Architecture%20-%201992%20(vol4num4art1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Alternating%20Coding%20and%20its%20Decoder%20Architectures%20for%20Unary-Prefixed%20Codes%20-%20PhD%20Thesis%2C%20Shang%20Xue%20(2005).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD%20-%20AMD64%20Archictecture%20Programmer's%20Manual%20-%20Volume%204%20-%20128-bit%20and%20256-bit%20Media%20Instructions%20-%20Rev%203.23%20-%20Feb%202019%20(26568).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "AMD%20-%20AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%201%20-%20Application%20Programming%20-%20Rev%203.22%20-%20Dec%202017%20(24592).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD%20-%20AMD64%20Programmer's%20Manual%20-%20Volume%202%20-%20System%20Programming%20-%20Rev%203.30%20-%20Sept%202018%20(24593).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD%20-%20AMD64%20Programmer's%20Manual%20-%20Volume%203%20-%20General%20Purpose%20and%20System%20Instructions%20-%20Rev%203.26%20-%20May%202018%20(24594).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "AMD%20-%20BIOS%20and%20Kernel%20Developer's%20Guide%20(BKDG)%20for%20AMD%20Family%2015h%20Models%2070h-7Fh%20Processors%20-%20Rev%203.09%20-%20June%2020th%2C%202018%20(55072).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "AMD%20-%20CPUID.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "AMD%20-%20GCN3%20Instruction%20Set%20Architecture%20-%20Graphics%20Core%20Next%20Architecture%2C%20Generation%203%20(Revision%201.0%2C%20March%202015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "AMD%20-%20Preliminary%20Processor%20Programming%20Reference%20(PPR)%20for%20AMD%20Family%2017h%20Models%2000h-0Fh%20Processors%20-%20Rev%201.14%20-%20April%2015th%2C%202017%20(54945).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD%20-%20Software%20Optimization%20Guide%20for%20AMD%20Family%2015h%20Processors%20-%20Rev%203.08%20-%20Jan%202014%20(47414_15h_sw_opt_guide).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "AMD%20-%20System%20Programming%20(24593).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%201%20-%20Application%20Programming%20(24592%2C%20r3.21%2C%20Oct-2013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%202%20-%20System%20Programming%20(24593%2C%20r3.24%2C%20Oct-2013).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%202%20-%20System%20Programming%20(24593%2C%20r3.25%2C%20Jun-2015).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%203%20-%20General-Purpose%20and%20System%20Instructions%20(24594%2C%20r3.21%2C%20Oct-2013).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%203%20-%20General-Purpose%20and%20System%20Instructions%20(24594%2C%20r3.22%2C%20Jun-2015).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%203%20-%20General-Purpose%20and%20System%20Instructions%20(24594%2C%20r3.25%2C%20Dec-2017).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%204%20-%20128-Bit%20and%20256-Bit%20Media%20Instructions%20(26568%2C%20r3.18%2C%20Oct-2013).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%204%20-%20128-Bit%20and%20256-Bit%20Media%20Instructions%20(26568%2C%20r3.19%2C%20Jun-2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%205%20-%2064-Bit%20Media%20and%20x87%20Floating-point%20Instructions%20(26569%2C%20r3.12%2C%20Mar-2012).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "AMD64%20Architecture%20Programmer's%20Manual%20-%20Volume%205%20-%2064-Bit%20Media%20and%20x87%20Floating-point%20Instructions%20(26569%2C%20r3.13%2C%20May-2013).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "An%20Approach%20for%20Minimal%20Perfect%20Hash%20Functions%20for%20Very%20Large%20Databases%20(tr06).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "An%20Elegant%20Algorithm%20for%20the%20Construction%20of%20Suffix%20Arrays%20(2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "An%20Evaluation%20of%20Network%20Stack%20Parallelization%20Strategies%20in%20Modern%20Operating%20Systems.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "An%20Experimental%20Exploration%20of%20Marsaglia's%20Xorshift%20Generators%2C%20Scrambled%20-%2013%20Oct%202016%20(1402.6246).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "An%20Exploration%20of%20Using%20the%20Intel%20AVX2%20Gather%20Load%20Instructions%20for%20Vectorised%20Image%20Processing%20-%202018%20(190046503).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "An%20In-Depth%20Analysis%20of%20Disassembly%20on%20Full-Scale%20x86-x64%20Binaries%20-%202016%20(sec16_paper_andriesse).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "An%20Informal%20Analysis%20of%20Perfect%20Hash%20Function%20Search%20(1989).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "An%20Introduction%20to%20Computational%20Networks%20and%20the%20Computational%20Network%20Toolkit%20-%20Microsoft%20(CNTKBook-20160121).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Seventh%20Printing).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "An%20NUMA%20API%20for%20Linux%20-%20Andi%20Kleen%2C%20Aug%202004.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "An%20Object-Oriented%20Random-Number%20Package%20with%20Many%20Long%20Streams%20and%20Substreams%20-%202000%20(streams4).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "An%20Optimal%20Algorithm%20for%20Generating%20Minimal%20Perfect%20Hash%20Functions%20-%201992%20(10.1.1.51.5566).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "An%20Overview%20of%20Linux%20Kernel%20Locking%20Improvements%20(August%202014).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "An%20Overview%20of%20the%20Singularity%20Project%20(tr-2005-135).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Analysing%20the%20Performance%20of%20GPU%20Hash%20Tables%20for%20State%20Space%20Exploration%20-%202017%20(1712.09494).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Analysis%20of%20B-tree%20Data%20Structure%20and%20its%20Usage%20in%20Computer%20Forensics%20(484192.B-tree).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Analysis%20of%20GS%20protections%20in%20Microsoft%20Windows%20Vistal%20-%20Symantec.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Analyzing%20Contextual%20Bias%20of%20Program%20Execution%20on%20Modern%20CPUs%20(Lars%20Kirkholt%20Melhus%2C%20NTNU%2C%20June%202013).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Analyzing%20Dynamic%20Hypergraphs%20with%20Parallel%20Aggregated%20Ordered%20Hypergraph%20Visualization%20-%202021%20(Paohvis).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Analyzing%20General%20Purpose%20Computing%20Performance%20on%20GPU%20-%20Thesis%20(2015).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Analyzing%20GPGPU%20Pipeline%20Latency%20-%20Poster%20-%202014%20(poster_andresch_acaces2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Analyzing%20Runtime%20and%20Size%20Complexity%20of%20Integer%20Programs%20-%20Microsoft%20Research%20(2016).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Analyzing%20your%20game%20performance%20using%20Event%20Tracing%20for%20Windows.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Anatomy%20of%20High-Performance%20Matrix%20Multiplication%20-%202008%20(gotoPaper).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Answering%20Reachability%20Queries%20on%20Large%20Directed%20Graphs%20-%20INF-SCR-10-10%20(September%2C%202010).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Anti-Debugging%20Reference%20-%20Peter%20Ferrie%20(4%20May%202011).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Applications%20of%20Finite%20Automata%20Representing%20Large%20Vocabularies%20-%201993%20(10.1.1.56.5272).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Applications%20of%20Finite%20Geometry%20in%20Coding%20Theory%20and%20Cryptography.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Applying%20the%20Proactor%20Pattern%20to%20High-Performance%20Web%20Servers.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Approximate%20Hypergraph%20Partitioning%20and%20Applications%20(2007).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Architectural%20Support%20for%20SWAR%20Text%20Processing%20with%20Parallel%20Bit%20Streams%20-%20The%20Inductive%20Doubling%20Principle%20-%202009%20(p337-cameron).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Architecture%20of%20a%20Database%20System%20-%202007%20(fntdb07-architecture).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "ARIES%20-%20A%20Transaction%20Recovery%20Method%20Supporting%20Fine-Granularity%20Locking%20and%20Partial%20Rollbacks%20Using%20Write-Ahead%20Logging%20(1992).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "ARM%20-%20Instruction%20Set%20Quick%20Reference%20Card%20(QRC0001_UAL.)pdf.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Array%20Layouts%20for%20Comparison-based%20Searching%20(March%2014%2C%202017).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Array%20Layouts%20for%20Comparison-based%20Searching%20(September%2C%202015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Array%20programming%20with%20NumPy%20-%20Nature%20-%202020%20(s41586-020-2649-2).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Art%20Of%20Intel%20x86%20Assembly.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "As%20If%20Summoned%20from%20the%20Void%20-%20The%20Life%20of%20Alexandre%20Grothendieck%20(fea-grothendieck-part2).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Asim%20-%20A%20Performance%20Model%20Framework%20(2002.02.computer.asim).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "ASLR%20on%20the%20Line%20-%20Practical%20Cache%20Attacks%20on%20the%20MMU%20-%202017%20(anc_ndss17).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "AsmDB%20-%20Understanding%20and%20Mitigating%20Front-End%20Stalls%20in%20Warehouse-Scale%20Computers%20(2019).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Aspects%20Related%20to%20Data%20Access%20and%20Transfer%20in%20CUDA%20-%20Slides%20-%202014%20(TR-2014-09).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Assembly%20Language%20for%20Beginners%20(AL4B-EN).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Assessing%20the%20Relationship%20between%20Software%20Assertions%20and%20Code%20Quality%20-%20An%20Empirical%20Investigation%20(tr-2006-54).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Assessment%20of%20Windows%20Vista%20Kernel-Mode%20Security%20-%20Matthew%20Conover%20(Symantec).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Asynchronous%20Teams%20-%20Cooperation%20Schemes%20for%20Autonomous%20Agents.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "ATOM%20-%20A%20System%20for%20Building%20Customized%20Program%20Analysis%20Tools%20-%201994.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Attacking%20the%20Windows%20Kernel%20-%202007.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Attention%20Is%20All%20You%20Need%20-%202017%20(1706.03762).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Automated%20Instruction%20Stream%20Throughput%20Prediction%20for%20Intel%20and%20AMD%20Microarchitectures%20-%202018%20(1809.00912).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Automatic%20Self-Allocating%20Threads%20on%20an%20SGI%20Challenge%20(10.1.1.37.3403).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Automatically%20Proving%20Termination%20and%20Memory%20Safety%20for%20Programs%20with%20Pointer%20Arithmetic%20-%20Microsoft%20Research%20(2016).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "AutoML%20-%20Chapter%2001%20-%20Hyperparameter%20Optimization%20(2018).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Avoiding%20AVX%20to%20SSE%20Transition%20Penalties.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Azul%20Java%20-%20A%20Lock-Free%20Wait-Free%20Hash%20Table%20-%202021%20(070221_LockFreeHash).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "B-trees%2C%20Shadowing%2C%20and%20Clones%20(2007).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Background%2C%20Motivation%2C%20and%20a%20Retrospective%20View%20of%20the%20BLAS%20(Lawson_BLAS).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Backward%20Search%20FM-Index%20(Full-text%20Index%20in%20a%20Minute%20Space)%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Balanced%20Families%20of%20Perfect%20Hash%20Functions%20and%20Their%20Applications%20-%202007.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Bash%20Redirections%20-%20Cheat%20Sheet.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Basic%20Linear%20Algebra%20Subprograms%20for%20Fortran%20Usage%20-%20BLAS%20(1979).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Basics%20of%20Compiler%20Design%20-%20Anniversary%20Edition.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Battle%20of%20SKM%20and%20IUM%20-%20How%20Windows%2010%20Rewrites%20OS%20Architecture%20-%20Alex%20Ionescu%20-%202015%20(blackhat2015).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Bayesian%20Data%20Analysis%20-%20Third%20Edition%20(13th%20Feb%202020).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Bayesian%20Reasoning%20and%20Machine%20Learning%20(181115).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Benchmarking%20a%20B-tree%20Compression%20Method.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Benefits%20of%20IO%20Acceleration%20Technology%20in%20Clusters.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Best%20Practices%20for%20Gathering%20Optimizer%20Statistics%20for%20Oracle%2012c%20(June%202013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Best%20Practices%20for%20Vectorization%20-%20Getting%20Ready%20for%20Intel%20AVX-512%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Better%20Bitmap%20Performance%20with%20Roaring%20Bitmaps%20(2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Better%20Performance%20at%20Lower%20Occupancy%20-%20Slides%20-%202010%20(volkov10-GTC).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Better%20with%20Fewer%20Bits%20-%20Improving%20the%20Performance%20of%20Cardinality%20Estimation%20of%20Large%20Data%20Streams%20(INFOCOM2017).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Beyond%20Block%20IO%20-%20Rethinking%20Traditional%20Storage%20Primitives%20(ouyangx-hpca2011).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Beyond%20Block%20IO%20-%20Rethinking%20Traditional%20Storage%20Primitives%20(ouyangx-hpca2011-slides).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "BGP%20in%202013%20(and%20a%20bit%20of%202014)%20-%20Slides%20(156-2014-05-12-bgp2013).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Big%20Data%20-%20New%20Tricks%20for%20Econometrics.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "BigQuery%20Technical%20Whitepaper%20-%20Google.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Binarized Neural Networks - Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 - 2016 (1602.02830v3).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Binarized Neural Networks- Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 - 2016 (1602.02830v3).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Binary%20Coding%20(2017).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Binary%20Combinatorial%20Coding%20(2003).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Binary%20Search%20Tree%20with%20SIMD%20Bandwidth%20Optimizations%20Using%20SSE%20(Preso06-SIMDTree).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "BIOS%20and%20Kernel%20Developer's%20Guide%20for%20AMD%20Athlon%2064%20and%20AMD%20Opteron%20Processors%20-%20r3.30%20Feb%202006.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Bipartite%20ShockHash%20-%20Pruning%20ShockHash%20Search%20for%20Efficient%20Perfect%20Hashing%20-%202023%20(2310.14959).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Bit%20Operations%20(Ray%20Seyfarth%202011).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Bitcoin%20-%20A%20Peer-to-Peer%20Electronic%20Cash%20System.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Bitmap%20Graphics%20and%20Bitblit%20-%20Course%20Notes%20-%20SIGGRAPH%201984%20(pike84bitblt).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Bitmap%20Graphs%20SIGGRAPH84%20Course%20Notes%20(pike84bitblt).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Bitmap%20Index%20Design%20and%20Evaluation%20-%201998%20(P355).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Bitmap%20Index%20Design%20Choices%20and%20Their%20Performance%20Implications%20(LBNL-62756).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Bitmap%20Indexing%20and%20Related%20Techniques%20-%20Slides.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Bitmap%20Indices%20for%20Data%20Warehouses.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "BitPath%20-%20Label%20Order%20Constrained%20Reachability%20Queries%20over%20Large%20Graphs%20-%201203.2886%20(13th%20March%2C%202012).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Blackout%20-%20What%20Really%20Happened%20-%20Slides%20(2007).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Blade%20-%20A%20Data%20Center%20Garbage%20Collector%20-%202015%20(1504.02578).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "BLAKE2%20-%20Simpler%2C%20Smaller%2C%20Fast%20as%20MD5%20(2013-01-29).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Blogel%20-%20A%20Block-Centric%20Framework%20for%20Distributed%20Computation%20on%20Real-World%20Graphs%20(2014).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Boosting%20Vector%20Calculus%20with%20the%20Graphical%20Notation%20-%203%20Nov%202019%20(1911.00892).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Bounds%20Checking%20on%20the%20GPU%20-%20Futhark%20(hlpp20).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "BPF%20-%20In-memory%20Virtual%20Machine%20(bpf_collabsummit_2015feb20).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Branch%20and%20Data%20Herding%20-%20Reducing%20Control%20and%20Memory%20Divergence%20for%20Error-tolerant%20GPU%20Applications%20(tmm12_preprint).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Branch%20Prediction%20and%20the%20Performance%20of%20Interpreters%20-%20Don't%20Trust%20the%20Folklore%20-%202013%20(RR-8405).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Branch%20Prediction%20with%20Neural%20Networks%20-%20Hidden%20layers%20and%20Recurrent%20Connections.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Brief%20Calculus%20-%20Benjamin%20Crowell%20%20-%20Nov%2010th%2C%202015.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Bringing%20SIMD-128%20to%20JavaScript%20(TC-39).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Broadword%20Implementation%20of%20Parenthesis%20Queries.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Broadword%20Implementation%20of%20Rank-Select%20Queries%20(Nov%2019%2C%202014).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Brook%20for%20GPUs%20-%20Stream%20Computing%20on%20Graphics%20Hardware%20-%20Paper.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Brook%20for%20GPUs%20-%20Stream%20Computing%20on%20Graphics%20Hardware%20-%20Slides%20(2004).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Bugs%20as%20Deviant%20Behavior%20-%20A%20General%20Approach%20to%20Inferring%20Errors%20in%20Systems%20Code%20-%20ACM%20-%202001%20(deviant-sosp-01).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Build%20Systems%20a%20la%20Carte%20-%202018%20(build-systems-5ab0f42d0f937).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Building%20a%20Bw-Tree%20Takes%20More%20Than%20Just%20Buzz%20Words%20-%202018%20(mod342-wangA).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Building%20R%20Packages%20-%20An%20Introduction.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Bumper%20Sticker%20Computer%20Science.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Burrows-Wheeler%20Transform%20and%20FM%20Index%20-%20Slides%20(Ben%20Langmead%2C%20Johns%20Hopkins).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Bypass%20Control%20Flow%20Guard%20Comprehensively%20(us-15-Zhang).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Bypass%20Control%20Flow%20Guard%20Comprehensively%20-%20Slides%20(2015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "C%20Cheat%20Sheet%20(ashlyn-black_c-reference).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "C++ Standard - 2012-01-16 - Working Draft (N3337).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "C++14 - Working Draft (N3797).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "C++17 Language Features Reference Card (2019).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "C++20 Reference Card - 29th Jan 2020.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Cache%20and%20IO%20Efficient%20Algorithms.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Cache%20Aware%20Bi-tier%20Task-stealing%20in%20Multi-socket%20Multi-core%20Architecture%20(icpp11).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Cache%20Organization%20and%20Memory%20Management%20of%20the%20Intel%20Nehalem%20Computer%20Architecture.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Cache%2C%20Hash%20and%20Space-Efficient%20Bloom%20Filters%20(10.1.1.93.7688).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Cache%2C%20Hash%20and%20Space-Efficient%20Bloom%20Filters.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Cache-Aware%20Lock-Free%20Queues%20for%20Multiple%20Producers-Consumers%20and%20Weak%20Memory%20Consistency%201.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Cache-Aware%20Lock-Free%20Queues%20for%20Multiple%20Producers-Consumers%20and%20Weak%20Memory%20Consistency.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Cache-Oblivious%20Algorithms%20and%20Data%20Structures%20(Demaine%2C%202002).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Cache-Oblivious%20Peeling%20of%20Random%20Hypergraphs%20-%202nd%20Dec%202013%20(1312.0526).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Cache-Oblivious%20Streaming%20B-trees.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CAF - The C++ Actor Framework for Scalable and Resource-efficient Applications - ACM 2014 (ageresplash2014_submission_5).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Calculus%20Made%20Easy.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Calculus%20Refresher%2C%20Version%202008.4%20(Paul%20Garrett).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Can't%20Get%20To%20Performing%20Without%20Storming%20(pat-ma03).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Canopy%20-%20An%20End-to-End%20Performance%20Tracing%20and%20Analysis%20System%20-%202017%20(sosp17-final14).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Captain%20Hook%20-%20Pirating%20AVs%20to%20Bypass%20Exploit%20Mitigations%20-%20Slides%20(2016).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CASEVision%20-%20ClearCase%20Administration%20Guide%20(007-1774-020).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Challenges%20in%20visualizing%20large%20graphs%20and%20hypergraphs%20-%202017%20-%20Slides%20(3_Xavier_Ouvrard).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "ChatGPT%20Cheat%20Sheet.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Checking%20System%20Rules%20Using%20System-Specific%2C%20Programmer-Written%20Compiler%20Extensions%20(mc-osdi).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Chihuahua%20-%20A%20Concurrent%2C%20Moving%2C%20Garbage%20Collector%20using%20Transactional%20Memory%20-%202015%20(anderson-transact-2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Chinese%20Remainder%20Theorem%20and%20its%20Applications.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Choosing%20a%20Good%20Chart%20(A.%20Abela%2C%202006).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Chord%20-%20A%20Scalable%20Peer-to-peer%20Lookup%20Service%20for%20Internet%20Applications%20(2001).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CityHash%20-%20Fast%20Hash%20Functions%20for%20Strings%20-%20Slides%20(121017-slides).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CK-12%20Probability%20and%20Statistics%20Advanced%20-%20Second%20Edition.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "ClearCase%20Administrator's%20Guide%20(7165_2167_cc_proj.admin).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Cluster-based%20Mixed%20Coding%20Schemes%20for%20Inverted%20File%20Index%20Compression%20(v6i10a4).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Codes%20for%20Positive%20Integers%20-%20CS423%2C%20Lecture%206%2C%20McGill%20(2008).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Cognitive%20Biases%20Potentially%20Affecting%20Judgment%20of%20Global%20Risks%20(2008).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Colfax%20-%20Programming%20and%20Optimization%20for%20Intel%20Architecture%20(2016).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Colfax%20Optimization%20Techniques%20for%20the%20Intel%20MIC%20Architecture%20-%20Part%201%20of%203%20-%20Multi-threading%20and%20Parallel%20Reduction%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Colfax%20Optimization%20Techniques%20for%20the%20Intel%20MIC%20Architecture%20-%20Part%202%20of%203%20-%20Strip-Mining%20for%20Vectorization%20(2015).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Colfax%20Optimization%20Techniques%20for%20the%20Intel%20MIC%20Architecture%20-%20Part%203%20of%203%20-%20False%20Sharing%20and%20Padding%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Comdb2%20-%20Bloomberg's%20Highly%20Available%20Relational%20Database%20System%20-%202017%20(p1377-scotti).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Communication%20Efficient%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Comparative%20Performance%20of%20Memory%20Reclamation%20Strategies%20for%20Lock-Free%20and%20Concurrently-Readable%20Data%20Structures.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Competitive%20Programmer's%20Handbook%20-%20Antti%20Laaksonen%20-%20(10th%20December%2C%202017).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Compiler%20Calling%20Conventions.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Compiler%20Confidential%20-%20Eric%20Brumer%20(6th%20Sept%202013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Compiler%20Construction%20-%20Niklaus%20Wirth%20-%201996%20(CBEAll).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Compiler%20Construction%20-%20Niklaus%20Wirth%20-%202005%20(CBEAll).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Compiler%20Construction%20-%20The%20Art%20of%20Niklaus%20Wirth%20(2000).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Compiler%20Design%20-%20Theory%2C%20Tools%20and%20Examples.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Compiler%20Design%20In%20C.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Compiler%20Internals%20-%20Exceptions%20and%20RTTI%20-%20Igor%20Skorchinsky%20(Hex-Rays)%20-%20Recon%202012.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Compiler%20Internals%20-%20Recon%202012%20-%20Skochinsky.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Compiling%20Python%20Modules%20to%20Native%20Parallel%20Modules%20Using%20Pythran%20and%20OpenMP%20Annotations.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Component%20Object%20Model%20-%20An%20Overview%20and%20Practical%20Implementation%20(IJSARTV3I38438636248891114924768).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Compressed%20Bloom%20Filters.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Compressed%20Inverted%20Indexes%20-%20Slides%20(2010).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Compressed%20Perfect%20Embedded%20Skip%20Lists%20for%20Quick%20Inverted-Index%20Lookups.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Compression%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Computer%20Systems%20Research.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Concurrent%20Hash%20Tables%20-%20Fast%20and%20General%20-%202016%20(1601.04017v2).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Concurrent%20Hash%20Tables%20-%20Fast%20and%20General%20-%20ACM%20-%202019%20(3309206).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Concurrent%20Programming%20for%20Scalable%20Web%20Architectures%20-%20Benjamin%20Erb%20-%20Thesis%20(April%202012)%20(vts_8082_11772).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Concurrent%20Reference%20Counting%20and%20Resource%20Management%20in%20Constant%20Time%20-%2029%20Feb%202020%20(2002.07053).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Conflict-Free%20Vectorization%20of%20Associative%20Irregular%20Applications%20with%20Recent%20SIMD%20Architectural%20Advances%20-%20Feb%202018%20(cgo18).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Consistently%20Faster%20and%20Smaller%20Compressed%20Bitmaps%20with%20Roaring%20-%2019th%20April%2C%202016%20(1603.06549).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Constraint%20Propagation%20Algorithms%20for%20Temporal%20Reasoning%20-%20A%20Revised%20Report%20(vilain-kautz-book).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Convex%20Optimization%20(2009).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Convex%20Optimization%20-%20Slides.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Cooperative%20Kernels%20-%20GPU%20Multitasking%20for%20Blocking%20Algorithms%20(fse2017).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Copy-and-Patch%20Compilation%20-%20A%20Fast%20Compilation%20Algorithm%20for%20High-Level%20Languages%20and%20Bytecode%20-%20Oct%202021%20(3485513).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Coq%20-%20The%20World's%20Best%20Macro%20Assembler.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Cores%20of%20Random%20r-Partite%20Hypergraphs%20-%20Dec%2015%202010%20(tr001_10).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Cores%20That%20Don't%20Count%20-%202021%20(hotos21-s01-hochschild).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CORFU%20-%20A%20Shared%20Log%20Design%20for%20Flash%20Clusters.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "COZ%20-%20Finding%20Code%20that%20Counts%20with%20Causal%20Profiling%20-%202015%20(090-curtsinger).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "COZ%20-%20Finding%20Code%20that%20Counts%20with%20Causal%20Profiling%20-%202015%20(UM-CS-2015-008).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "COZ%20-%20Finding%20Code%20that%20Counts%20with%20Causal%20Profiling%20-%20Slides%20(2015).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CPU%20Caches%20-%20Slides%20(2017).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Creating%20R%20Packages%20-%20A%20Tutorial%20(Sept%2014%202009).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Critique%20of%20Microkernel%20Architectures%20(Slides).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%201%20-%20Advanced%20GPU%20Programming%20(Intro).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%2010%20-%20CUDA%20Part%201%20-%20Slides.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%2011%20-%20CUDA%20Part%202%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%202%20-%20Modern%20OpenGL%20-%20Slides.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%203%20-%20GLSL%20Programming%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%204%20-%20Noise%20Functions%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%206%20-%20Image%20Samplers%20and%20Atomic%20Operations%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%207%20-%20Fluids%20-%20Slides.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%208%20-%20Materials%20and%20BRDFs%20-%20Slides.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CS195V%20Brown%20-%20Week%209%20-%20GPU%20Architecture%20and%20Other%20Shading%20Languages%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Cuckoo%20Filter%20-%20Practically%20Better%20Than%20Bloom.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Cuckoo++ Hash Tables - High-Performance Hash Tables for Networking Applications - 2017 (1712.09624).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA C and C++ Streams and Concurrency - NVIDIA - Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA Training Series - 01 - Introduction to CUDA C++ (2020).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20-%20Cooperative%20Groups%20-%20GTC%202017%20(s7622-Kyrylo-perelygin-robust-and-scalable-cuda).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CUDA%20-%20CSE%20591%20-%20GPU%20Programming%20-%20Using%20CUDA%20in%20Practice%20(Slides).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20-%20CUDA%20Streams%20Best%20Practices%20-%20Slides%20(S4158).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20-%20Lecture%204%20-%20Warp%20Shuffles%2C%20and%20Reduction%20and%20Scan%20Operations%20(Oxford).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20-%20Quick%20Reference.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20Asynchronous%20Memory%20Usage%20and%20Execution%20(cuda_05_ykhung).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Best%20Practices%20(Slides).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CUDA%20C%20Programming%20Guide%20v12.1%20(Feb%2028%202023).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20C%20Programming%20Guide%20v8.0%20-%20Design%20Guide%20-%20September%2C%202016%20(PG-02829-001_v8.0).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CUDA%20Debugging%20with%20Command%20Line%20Tools%20-%202014%20(S4578).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CUDA%20GDB%20-%20Release%2012.1%20(Feb%2028%2C%202023).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CUDA%20GDB%20-%20Release%2012.3%20(Oct%2017%2C%202023).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20Managed%20Memory%20-%20Slides%20(2020).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20Math%20API%20(January%202022).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "CUDA%20Optimizations%20-%20Slides%20(April%202016).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20Shuffle%20-%20Tips%20and%20Tricks%20(GTC%202013).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20Streams%20-%20Best%20Practices%20and%20Common%20Pitfalls%20-%20Slides%20(2012).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20Thread%20Basics%20-%20Slides%20(2011).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20Thread-Indexing%20Cheatsheet.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Threads%20-%20GPU%20Architecture%20and%20Programming%20-%20NYU%20CSCI-GA.3033-012%20(2012).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2002%20-%20CUDA%20Shared%20Memory%20(2020).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2003%20-%20Fundamental%20CUDA%20Optimization%20-%20Part%201%20(2020).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2004%20-%20Fundamental%20CUDA%20Optimization%20-%20Part%202%20(2020).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2005%20-%20Atomics%2C%20Reductions%2C%20and%20Warp%20Shuffle%20(2020).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2006%20-%20Managed%20Memory%20(2020).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2007%20-%20CUDA%20Concurrency%20(2020).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2008%20-%20GPU%20Performance%20Analysis.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2009%20-%20Cooperative%20Groups%20(2020).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2010%20-%20CUDA%20Multithreading%20with%20Streams%20(2021).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2011%20-%20CUDA%20Multi-Process%20Service%20(2021).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2012%20-%20CUDA%20Debugging%20(2021).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%2013%20-%20CUDA%20Graphs%20(2021).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Training%20Series%20-%20All%20(2020-2021).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDA%20Unified%20Memory%20-%20GPGPU%20-%20Slides%20(2015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "CUDAsmith%20-%20A%20Fuzzer%20for%20CUDA%20Compilers%20(TR-2020-05).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Current%20Best%20Practices%20for%20Training%20LLMs%20from%20Scratch%20-%20Final%20(6435aabdc0a041194b243eef).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Curves%20and%20Surfaces%20-%20Lecture%20Notes%20for%20Geometry%201%20-%20Henrik%20Schlichtkrull%20-%20University%20of%20Copenhagen%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Cushion%20Treemaps%20-%20Visualization%20of%20Hierarchical%20Information%20(1999).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Dapper%20-%20A%20Large-Scale%20Distributed%20Systems%20Tracing%20Infrastructure%20(36356).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Data%20Compression%20Techniques%20-%20Lecture%201%20-%20Shannon's%20Theorem%20-%20University%20of%20Helsinky%20-%20Slides%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Data%20Compression%20Techniques%20-%20Lecture%202%20-%20Morse%20Code%20to%20Huffman%20Coding%20-%20University%20of%20Helsinky%20-%20Slides%20(2015).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Data%20Compression%20Techniques%20-%20Lecture%203%20-%20Integer%20Codes%201%20-%20University%20of%20Helsinky%20-%20Slides%20(DCT2015-Lecture3Web).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Data%20Compression%20Techniques%20-%20Lecture%204%20-%20Integer%20Codes%202%20-%20University%20of%20Helsinky%20-%20Slides%20(DCT2015-Lecture4).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Data%20Compression%20Techniques%20-%20Lecture%205%20-%20Adaptive%20Prefix-Free%20Coding%20-%20University%20of%20Helsinky%20-%20Slides%20(2015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Data%20Compression%20Techniques%20-%20Lecture%206%20-%20Arithmetic%20Coding%20(2015).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Data%20Compression%20Techniques%20-%20Lecture%207%20-%20Dictionary%20Compression%20(DCT2015-Lecture7Web).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Data%20Structures%20and%20Algorithms%20(2008).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Data%20Structures%20for%20Data-Intensive%20Applications%20-%20Tradeoffs%20and%20Design%20Guidelines%20(fnt23-athanassoulis).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Data%20Structures%20for%20Text%20Sequences.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Data%20Transfer%20Matters%20for%20GPU%20Computing%20-%202013%20(icpads13).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Data-Parallel%20Hashing%20Techniques%20for%20GPU%20Architectures%20-%2011%20Jul%202018%20(1807.04345).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Database%20Fundamentals.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Database%20System%20Implementation%20-%20COSC%20404%20-%20Slides.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "DataMining-ch1.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "DataMining-ch2.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "DataMining-ch3.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "DataMining-ch4.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "DataMining-ch5.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "DataMining-ch6.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "DataMining-ch7.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Debugging%20Programs%20that%20use%20Atomic%20Blocks%20and%20Transactional%20Memory%20(2010).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Debugging%20Tools%20for%20Windows%20(b7f35e165e8b2083ad68d4dbd398b7ba).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Debugging%20Tools%20for%20Windows%20(WinDbg%2C%20KD%2C%20CDB%2C%20NTSD).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Debunking%20the%20100x%20GPU%20vs%20CPU%20Myth%20-%20An%20Evaluation%20of%20Throughput%20Computing%20on%20CPU%20and%20GPU.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "DEC%20-%20The%20Mistakes%20That%20Led%20To%20Its%20Downfall%20(Goodwin%20Paper).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "DEC%20-%20The%20Mistakes%20that%20led%20to%20its%20Downfall.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Deep%20Learning%20Tutorial%20-%20Slides%20-%202013%20(lecun-ranzato-icml2013).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "DeepState - Symbolic Unit Testing for C and C++ - 2018 (bar18).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Demystifying%20DAS%2C%20SAN%2C%20NAS%2C%20NAS%20Gateways%2C%20Fibre%20Channel%2C%20and%20iSCSI.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Demystifying%20GPU%20Microarchitecture%20through%20Microbenchmarking%20-%202010%20(gpuarch-ispass2010).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Deny%20Capabilities%20for%20Safe%2C%20Fast%20Actors%20-%20Ponylang%20(2015).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Depth-First%20Search%20and%20Linear%20Graph%20Algorithms%20-%20Tarjan%20(1972).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Derivability%2C%20Consistency%20(rj599).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Derivability%2C%20Redundancy%20and%20Consistency%20of%20Relations%20Stored%20in%20Large%20Data%20Banks%20-%20E.%20F.%20Codd%20(1969).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Designing%20COM%20Interfaces%20-%201995.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Deterministic%20Dynamic%20Deadlock%20Detection%20and%20Recovery.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Detours%20-%20Binary%20Interception%20of%20Win32%20Functions%20-%201999%20(huntusenixnt99).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Developing%20and%20Porting%20Applications%20to%20AIX%20(sg245674).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "DGX-1%20User%20Guide.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "DI-MMAP%20-%20A%20High%20Performance%20Memory%20Map%20Runtime%20for%20Data-Intensive%20Applications%20(Nov%2016%202012)%20-%20Deck.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "DI-MMAP%20-%20A%20High%20Performance%20Memory%20Map%20Runtime%20for%20Data-Intensive%20Applications%20(Nov%2016%202012)%20-%20Paper.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Digital%20at%20Work%20(1992).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Digital%20FX32%20-%20Running%2032-bit%20x86%20Applications%20on%20Alpha%20NT.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Dijkstra's%20in%20Disguise%20-%20Eric%20Jang%20(12th%20August%2C%202018).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Direct%20Cache%20Access%20for%20High%20Bandwidth%20Network%20IO%20-%202005%20(huggahalli05).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Disk%20Based%20Hash%20Tables%20and%20Quantified%20Numbers%20(24th%20March%2C%202014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Disruptor%20-%20High%20performance%20alternative%20to%20bounded%20queues%20for%20exchanging%20data%20between%20concurrent%20threads%20(May%202011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Dissecting%20the%20NVIDIA%20Turing%20T4%20GPU%20via%20Microbenchmarking%20-%2018%20Mar%202019%20(1903.07486).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Dissecting%20the%20NVIDIA%20Volta%20GPU%20Architecture%20via%20Microbenchmarking%20-%202018%20(1804.06826).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Dissecting%20the%20NVIDIA%20Volta%20GPU%20Architecture%20via%20Microbenchmarking%20-%202018%20-%20Slides%20(1804.06826).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Distilling%20the%20Knowledge%20in%20a%20Neural%20Network%20(1503.02531v1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Distinct%20Elements%20in%20Streams%20-%20An%20Algorithm%20for%20the%20(Text)%20Book%20(2301.10191v2).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Distributed%20and%20Parallel%20Time%20Series%20Feature%20Extraction%20for%20Industrial%20Big%20Data%20Applications%20-%2025th%20October%202016%20(1610.07717v1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Distributed%20Component%20Object%20Model%20(DCOM)%20Remote%20Protocol%20-%20MS-DCOM-2015%20(October%2016th%2C%202015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Dodd-Frank%20Act%20Stress%20Test%202014%20-%20Supervisory%20Stress%20Test%20Methodology%20and%20Results%20-%20March%202014%20(bcreg20140320a1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Down%20For%20The%20Count%20-%20Getting%20Reference%20Counting%20Back%20in%20the%20Ring%20(rc-ismm-2012).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Doxygen%20Quick%20Reference%20(2013).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Doxygen%20Quick%20Reference.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Draw%20Me%20A%20Local%20Kernel%20Debuger%20-%20Slides%20(2015).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Driver%20Annotations%20in%20Depth%20-%20Part%202%20-%20Slides%20-%202008%20(dde-t676_ddc08).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Driver%20Annotations%20in%20Depth%20-%20Part%202%20-%20Slides%20-%202010%20(dde-t676_ddc08).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Dropout%20-%20A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from%20Overfitting%20-%202014%20(JMLRdropout).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "DTrace%20Dynamic%20Tracing%20In%20Oracle%20Solaris%2C%20Mac%20OS%20X%20%26%20FreeBSD.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Dueling%20UNIXes%20and%20the%20UNIX%20Wars%20(login_apr15_17_salus.pdf).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Dynamic%20Storage%20Allocation%20-%20A%20Survey%20and%20Critical%20Review.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Dynamic%20Storage%20Allocation%20-%20Survey%20and%20Critical%20Review.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Effective%20Computation%20of%20Biased%20Quantiles%20over%20Data%20Streams%20(bquant).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Efficient%20Algorithms%20for%20Large-Scale%20Image%20Analysis%20(978-3-86644-786-8_PDFA).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20Computation%20of%20Binomial%20Coefficients%20Using%20Splay%20Trees%20-%202016%20(10.11648.j.ijdst.20160201.14).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Efficient%20Estimation%20of%20Mutual%20Information%20for%20Strongly%20Dependent%20Variables%20(gao15).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space%20-%202013%20(1301.3781).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space%20-%207th%20Sep%202013%20(1301.3781).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20Exploitation%20of%20Parallelism%20on%20Pentium%20III%20and%20Pentium%204%20Processor-Based%20Systems%20-%202001%20(art_6).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20Hash%20Probes%20on%20Modern%20Processors%20(icde2007).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Efficient%20Hashing%20using%20the%20AES%20Instruction%20Set%20(69170507).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Efficient%20Hashing%20with%20Lookups%20in%20two%20Memory%20Accesses%20-%202018%20(0407023v1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Efficient%20Implementation%20of%20Lazy%20Suffix%20Trees%20(gie-kur-sto-2003).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Efficient%20Implementation%20of%20Reductions%20on%20GPU%20Architectures%20(2017).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Efficient%20Implementation%20of%20Sorting%20on%20Multicore%20SIMD%20CPU%20Architecture%20-%20Slides%20-%20VLDB%202008%20(9-29-15).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20Implementation%20of%20Sorting%20on%20Multicore%20SIMD%20CPU%20Architecture%20-%20VLDB%202008%20(1454171).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Efficient%20IO%20with%20io_uring.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20Lightweight%20Compression%20Algorithm%20Alongside%20Fast%20Scans%20(damon15).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Efficient%20Lossless%20Compression%20of%20Trees%20and%20Graphs.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20Parallel%20Graph%20Exploration%20on%20Multi-Core%20CPU%20and%20GPU%20-%202011%20(pact11-hong).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Efficient%20Processing%20of%20Window%20Functions%20in%20Analytical%20SQL%20Queries%20-%202015%20(p1058-leis).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Efficient%20String%20Matching%20-%20An%20Aid%20to%20Bibliographic%20Search%20-%20Aho-Corasick%20(1975).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Efficient%20Virtual%20Memory%20for%20Big%20Memory%20Servers%20(isca13_direct_segment).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Efficiently%20Compiling%20Efficient%20Query%20Plans%20for%20Modern%20Hardware%20-%202011%20(p539-neumann).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Egocentrism%20Over%20E-Mail%20-%20Can%20We%20Communicate%20as%20Well%20as%20We%20Think%20(krugeretal05).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "EIT%20-%20The%20Internal%20Extent%20Formula%20for%20Compacted%20Tries.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Elementary%20Calculus%20-%20An%20Infinitesimal%20Approach%20(keislercalc-03-07-17).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Elevated%20-%20Function%202009.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "ELF%20Format.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "ELF%20Handling%20for%20Thread-Local%20Storage%20-%20Ulrich%20Drepper%20(2005).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Eliminating%20Global%20Interpreter%20Locks%20in%20Ruby%20through%20Hardware%20Transactional%20Memory%20(PPoPP2014_RubyGILHTM).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "EMOGI%20-%20Efficient%20Memory-access%20for%20Out-of-memory%20Graph-traversal%20in%20GPUs%20(p114-min).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Empirical%20Study%20of%20the%20Anatomy%20of%20Modern%20SAT%20Solvers%20(2010).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Encyclopedia%20of%20Controller%20Fundamentals%20and%20Features%20-%20Firmware%20Version%203.2%20to%208.0%20(8_0_775041-01C).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Engineering%20Better%20Software%20at%20Microsoft%20-%20Jason%20Yang%2C%20Slides%20-%2030th%20Nov%202011%20(25-sal).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Enhancing%20Comprehension%20and%20Navigation%20in%20Jupyter%20Notebooks%20with%20Static%20Analysis%20-%202023%20(2301.04419).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Enhancing%20Server%20Availability%20and%20Security%20Through%20Failure-Oblivious%20Computing%20-%202004%20(rinard).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "ESET%20-%20A%20Machine-Learning%20Method%20to%20Explore%20the%20UEFI%20Landscape%20(Sept%202019).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Establishing%20a%20Base%20of%20Trust%20with%20Performance%20Counters%20for%20Enterprise%20Workloads%20-%202015%20(atc15-paper-nowak).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Estimating%20Flight%20Characteristics%20of%20Anomalous%20Unidentified%20Aerial%20Vehicles%20(entropy-21-00939-v2).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Estoteric%20Hooks%20-%20Alex%20Ionescu%20-%20Slides%20(2015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Evaluation%20of%20Contemporary%20Graph%20Databases%20for%20Efficient%20Persistence%20of%20Large-Scale%20Models.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Evaluation%20of%20Parallel%20Design%20Patterns%20for%20Message%20Processing%20Systems%20on%20Embedded%20Multicore%20Systems.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Evaluation%20of%20Rolling%20Sphere%20Method%20Using%20Leader%20Potential%20Concept%20-%20A%20Case%20Study%20-%202006%20(IT%20P501-124).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Event%20Source%20User%20Guide.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "EventSource%20Activities%20Specification%20(2016).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Everything%20We%20Know%20About%20CRC%20But%20Afraid%20To%20Forget%20(3rd%20September%2C%202010).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Everything%20You%20Always%20Wanted%20to%20Know%20About%20Synchronization%20but%20Were%20Afraid%20to%20Ask%20(p33-david).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Exact%20Minimum%20Degree%20Thresholds%20for%20Perfect%20Matchings%20in%20Uniform%20Hypergraphs%20(2012).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Experiences%20in%20the%20Land%20of%20Virtual%20Abstractions%20-%20Slides%20-%202014%20(VEE14-present601).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Experiences%20Porting%20Real%20Time%20Signal%20Processing%20Pipeline%20CUDA%20Kernels%20to%20Kepler%20and%20Windows%208%20-%20Slides%20-%202014%20(S4148-rt-signal-processing-pipeline-cuda-ke.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Expert%20programmers%20have%20fine-tuned%20cortical%20representations%20of%20source%20code%20(2020.01.28.923953v1.full).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Explaining%20AdaBoost.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Exploiting%20Coarse-Grain%20Speculative%20Parallelism.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Exploiting%20Deferred%20Destruction%20-%20An%20Analysis%20of%20Read-Copy-Update%20Techniques%20in%20Operating%20System%20Kernels%20(RCUdissertation.2004.07.14e1).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Exploiting%20SIMD%20for%20Complex%20Numerical%20Predicates%20-%202015%20(HardBD16_3).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Exploration%20by%20Random%20Network%20Distillation%20(1810.12894v1).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Exploring%20Control%20Flow%20Guard%20in%20Windows%2010%20-%20Trend%20Micro.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Exploring%20PLSQL%20New%20Features%20Best%20Practices%20-%20OOW%202013%20Aharonovich.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Exponential%20Golomb%20and%20Rice%20Error%20Correction%20Codes%20for%20Generalized%20Near-Capacity%20Joint%20Source%20and%20Channel%20Coding%20(ExpgECRiceEC).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Extending%20Oracle%20E-Business%20Suite%20Release%2012.1%20and%20above%20using%20Oracle%20Application%20Express%20(345780).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Extending%20Python%20for%20High-performance%20Data-Parallel%20Programming%20(March%2024%2C%202014).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "External%20Perfect%20Hashing%20for%20Very%20Large%20Key%20Sets%20-%202007%20(cikm07).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Extra%20300%20-%20Pilot's%20Operating%20Handbook%20(20th%20Sept%2C%202009).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Faliure-Atomic%20msync()%20-%20A%20Simple%20and%20Efficient%20Mechanism%20for%20Preserving%20the%20Integrity%20of%20Durable%20Data.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Fallout%20-%20Reading%20Kernel%20Writes%20From%20User%20Space%20-%2029th%20May%202019%20(1905.12701).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "FAST%20-%20Fast%20Architecture%20Sensitive%20Tree%20Search%20on%20Modern%20CPUs%20and%20GPUs%20-%20Slides.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "FAST%20-%20Fast%20Architecture%20Sensitive%20Tree%20Search%20on%20Modern%20CPUs%20and%20GPUs.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20and%20Furious%20-%20Outrunning%20Windeows%20Kernel%20Notification%20Routines%20from%20User-Mode%20(2020).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20and%20Scalable%20Minimal%20Perfect%20Hashing%20for%20Massive%20Key%20Sets%20-%202017%20(1702.03154).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Fast%20and%20Space%20Efficient%20Trie%20Searches%20-%20Phil%20Bagwell%20-%20ACM.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20Bit%20Compression%20and%20Expansion%20with%20Parallel%20Extract%20and%20Parallel%20Deposit%20Instructions%20-%202006%20(hilewitz06).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Fast%20Bit%20Gather%2C%20Bit%20Scatter%20and%20Bit%20Permutation%20Instructions%20for%20Commodity%20Microprocessors%20-%202008%20(Hilewitz_JSPS_08).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Fast%20CRC%20Computation%20for%20Generic%20Polynomials%20Using%20PCLMULQDQ%20Instruction%20-%20Intel%20(December%2C%202009).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20Databases%20with%20Fast%20Durability%20and%20Recovery%20Through%20Multicore%20Parallelism%20(osdi14-paper-zheng_wenting).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Deterministic%20Selection%20-%20Andrei%20Alexandrescu%20-%20June%202016%20(1606.00484v1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Exact%20Multiplication%20by%20the%20Hessian%20-%201993%20(nc-hessian).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20Keyed%20Hash%20and%20Pseudo-Random%20Function%20using%20SIMD%20Multiply%20and%20Permute%20-%2020%20Nov%202016%20(1612.06257v2).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Multiple%20String%20Matching%20Using%20Streaming%20SIMD%20Extensions%20Technology%20-%202013%20(psc13p08_presentation).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Multiplication%20in%20Binary%20Fields%20on%20GPUs%20via%20Register%20Cache%20(ics16gpufft).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Fast%20Packed%20String%20Matching%20for%20Short%20Patterns%20-%202012%20(1209.6449).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Fast%20Parallel%20GPU-Sorting%20Using%20a%20Hybrid%20Sort.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20Parallel%20Suffix%20Array%20on%20the%20GPU.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Fast%20Prefix%20Search%20in%20Little%20Space%2C%20with%20Applications.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Fast%20Quicksort%20Implementation%20Using%20AVX%20Instructions%20-%202015%20(10.1.1.1009.7773).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Scalable%20Construction%20of%20(Minimal%20Perfect%20Hash)%20Functions%20-%2022%20Mar%202016%2C%20v2%20(1603.04330).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20Scalable%20Construction%20of%20(Minimal%20Perfect%20Hash)%20Functions.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Search%20in%20Hamming%20Space%20with%20Multi-Index%20Hashing.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20Sort%20on%20CPUs%2C%20GPUs%20and%20Intel%20MIC%20Architectures%20-%20Technical%20Report%20-%20Intel%20Labs%20(intel-labs-radix-sort-mic-report).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fast%20Sorted-Set%20Intersection%20using%20SIMD%20Instructions%20(p1-SCHLEGEL).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Sorting%20Algorithms%20using%20AVX-512%20on%20Intel%20Knight's%20Landing%20(1704.08579).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fast%20Sorting%20Algorithms%20using%20AVX-512%20on%20Intel%20Knights%20Landing%20-%2024%20Apr%202017%20(1704.08579).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Fast%20Splittable%20Pseudorandom%20Number%20Generators%20(oopsla14).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Fast%20String%20Correction%20with%20Levenshtein-Automata%20(2002)%20(10.1.1.16.652).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Fast%20Succinct%20Retrieval%20and%20Approximate%20Membership%20using%20Ribbon%20-%202019%20(2109.01892).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "FastBDT%20-%20A%20speed-optimized%20and%20cache-friendly%20implementation%20of%20stochastic%20gradient-boosted%20decision%20trees%20for%20multivariate%20classification%20-%202016%20(1609.061.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Faster%2064-bit%20Universal%20Hashing%20using%20Carry-less%20Multiplication%20-%202015%20(1503.03465).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Faster%20Base64%20Encoding%20and%20Decoding%20Using%20AVX2%20Instructions%20v4%20(2018)%20(1704.00605).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Faster%20Methods%20for%20Random%20Sampling%20-%201984%20(Vit84.sampling).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Faster%20Population%20Counts%20using%20AVX2%20Instructions%20(1611.07612v1).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "FASTHash%20-%20FPGA-Based%20High%20Througput%20Parallel%20Hash%20Table%20(978-3-030-50743-5_Chapter_1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Featherweight%20Threads%20for%20Communication%20-%202011%20(parasites_tech11).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "FERRARI%20-%20Flexible%20and%20Efficient%20Reachability%20Range%20Assignment%20for%20Graph%20Indexing.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Fibers%20Under%20The%20Magnifying%20Glass%20-%202018%20(p1364r0).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Fibre%20Channel%20Fundamentals.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fibre%20Channel%20Reference%20Card.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Filter%20Manager%20-%20Windows.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Filter%20Representation%20in%20Vectorized%20Query%20Execution%20(ngom-damon2021).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Finance%20-%20Salomon%20Smith%20Barney%20Introductory%20Guide%20to%20Equity%20Options%20(1998).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Finding%20Frequent%20Items%20in%20Data%20Streams%20-%20PLVDB%20-%202008.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Finding%20Frequent%20Items%20in%20Data%20Streams.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Finding%20Minimal%20Perfect%20Hash%20Functions%20-%201986%20(10.1.1.144.9650).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Finding%20Similar%20Items.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Finding%20Small%20Balanced%20Separators%20(2006).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "FlashAttention-2%20-%20Faster%20Attention%20with%20Better%20Parallelism%20and%20Work%20Partitioning.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "FlashAttention-3%20-%20Fast%20and%20Accurate%20Attention%20with%20Asynchrony%20and%20Low-precision.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "FLASHRELATE%20-%20Extracting%20Relational%20Data%20from%20Semi-Structured%20Spreadsheets%20Using%20Examples%20(Microsoft%20Research%20-%20April%202014).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Flush+Reload - A High-Resolution, Low-Noise, L3 Cache Side-Channel Attack (2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Folding%20and%20Unfolding%20-%20Erik%20D.%20Demaine%20-%20Ph.D%20Thesis%202001%20(eddemaine2001).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Foreign%20Library%20Interface.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Foundations%20of%20Data%20Science%20(June%2C%202016).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Foundations%20of%20Data%20Science.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Foundations%20of%20Databases.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "FPGA%20Acceleration%20by%20Dynamically-Loaded%20Hardware%20Libraries%20-%202016%20(tr16_03_Nannarelli_A).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fractal Prefetching B+ Trees - Optimizing Both Cache and Disk Performance.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Framework%20for%20Instruction-level%20Tracing%20and%20Analysis%20of%20Program%20Executions%20(2006).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Free%20Launch%20-%20Optimizing%20GPU%20Dynamic%20Kernel%20Launches%20through%20Thread%20Reuse%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "From%20Numerical%20Cosmology%20to%20Efficient%20Bit%20Abstractions%20for%20the%20Standard%20Library%20-%20Vincent%20Reverdy%20-%20CppCon%202016.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fully%20Concurrent%20Garbage%20Collection%20of%20Actors%20on%20Many-Core%20Machines%20-%202013%20(opsla237-clebsch).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Fundamentals of COM(+) - Part 1 - Slides - Don Box.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fundamentals%20of%20Calculs%20-%20Crowell%20et%20al%20-%202016.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Fundamentals%20of%20Deep%20Learning%20of%20Representations%20-%202014%20(Tel-Aviv-7nov2014).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Fundamentals%20of%20Learning%20(2015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Further%20Scramblings%20of%20Marsaglia's%20Xorshift%20Generators%20-%2023%20May%202016%20(1404.0390).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Futexes%20Are%20Tricky%20-%20Ulrich%20Drepper%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "GDB%20Cheat%20Sheet.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "GDB%20Quick%20Reference.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "General%20Analysis%20of%20Maxima%20and%20Minima%20in%20Constrained%20Optimization%20Problems.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "General%20Incremental%20Sliding-Window%20Aggregation%20(p702-tangwongsan).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "General-Purpose%20Graphics%20Processor%20Architecture%20(2018).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Generalized%20Golomb%20Codes%20and%20Adaptive%20Coding%20of%20Wavelet-Transformed%20Image%20Subbands%20(August%2015th%2C%202003).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Generalized%20Histogram%20Algorithms%20for%20CUDA%20GPUs%20-%20Slides%20-%202012%20(histogram_para2012).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Generating%20Sequences%20With%20Recurrent%20Neural%20Networks%20(1308.0850v5).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Generating%20Text%20with%20Recurrent%20Neural%20Networks%20(LANG-RNN).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Getting%20Physical%20-%20Extreme%20Abuse%20of%20Intel-based%20Paging%20Systems%20-%20Slides%20-%202016%20(CSW2016_Economou-Nissim_GettingPhysical).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Getting%20Started%20with%20CUDA%20(2008).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Getting%20Started%20with%20Software%20Tracing%20in%20Windows%20Drivers%20(WinHEC%202005%20-%20April%2018%2C%202005).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Git%20from%20the%20Bottom%20Up.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Git%20Magic.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Go%201.5%20Concurrent%20Garbage%20Collector%20Pacing.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Goals%20Gone%20Wild%20-%20The%20Systematic%20Side%20Effects%20of%20Over-Prescribing%20Goal%20Setting%20-%20Harvard%20Business%20School%20(09-083).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Google C++ Style Guide.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Google's%20Neural%20Machine%20Translation%20System%20-%20Bridging%20the%20Gap%20between%20Human%20and%20Machine%20Translation%20-%202016%20(1609.08144v1).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "GPERF%20-%20A%20Perfect%20Hash%20Function%20Generator.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "GPT-4%20System%20Card.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "GPT-4%20Technical%20Report.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "GPU%20Control%20Flow%20and%20Synchronization%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "GPU%20Optimization%20Fundamentals.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "GPU%20Programming%20Basics%20-%20Slides.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "GPU%20Random%20Numbers%20via%20the%20Tiny%20Encryption%20Algorithm%20(2010).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "GPU-ArraySort%20-%20A%20parallel%2C%20in-place%20algorithm%20for%20sorting%20large%20number%20of%20arrays%20(2016).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "GPUDirect%20Storage%20-%20Slides%20(sc1922).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Grand%20Central%20Dispatch%20-%20FreeBSD%20Dev%20Summit%20(18%20Sep%202009).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Graph%20Theoretic%20Obstacles%20to%20Perfect%20Hashing%20-%201994%20(TR0257).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Graph%20Theory%20(2005).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Graph-Based%20Algorithms%20for%20Boolean%20Function%20Manipulation%20-%201986%20(BDD_ieeetc86).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "GraphBLAS%20Mathmatics%20-%20Provisional%20Release%201.0%20-%20Jeremy%20Kepner%20(26th%20April%2C%202017).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Graphs%2C%20Hypergraphs%20and%20Hashing%20(1994).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "GRIM%20-%20Leveraging%20GPUs%20for%20Kernel%20Integrity%20Monitoring.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "GTC%202010%20(Part%201)%20-%20High%20Productivity%20Development.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "GTC%202010%20(Part%202)%20-%20Thrust%20By%20Example.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "GTC%202017%20-%20Parallel%20Depth%20First%20on%20GPU%20-%20Slides%20(s7469-maxim-naumov-parallel-depth-first-on-gpu).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Guide%20to%20Automatic%20Vectorization%20with%20Intel%20AVX-512%20Instructions%20in%20Knights%20Landing%20Processors%20-%20Bonan%20Zhang%20-%20Colfax%20International%2C%202016%20(Colfax_KNL_.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Gunrock%20-%20A%20Fast%20and%20Programmable%20Multi-GPU%20Graph%20Processing%20Library%20-%20Slides%20-%202015%20(SC5139).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Gunrock%20-%20A%20Fast%20and%20Programmable%20Multi-GPU%20Graph%20Processing%20Library%20-%20Slides%20-%202016%20(S6374).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Gunrock%20-%20A%20High-Performance%20Graph%20Processing%20Library%20on%20the%20GPU%20-%202016.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "H2O%20-%20The%20Opytimized%20HTTP%20Server%20(Kazuho%20Oku%2C%202014).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Hardware%20Acceleration%20for%20Memory-to-Memory%20Copies%20-%20January%2013%2C%202017%20(EECS-2017-2).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Hardware%20Breakpoint%20(or%20watchpoint)%20usage%20in%20Linux%20Kernel%20(ols2009-pages-149-158).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Hardware%20is%20the%20new%20software%20(baumann-hotos17).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Hardware%20Transactional%20Memory%20on%20Haswell.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Hardware-Aware%20Optimization-%20Using%20Intel%20Streaming%20SIMD%20Extensions%20-%20Slides%20(2010).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "HARE%20-%20Hardware%20Acceleration%20for%20Regular%20Expressions%20-%202016%20(micro16).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Harnessing%20Intel%20Processor%20Trace%20on%20Windows%20for%20Vulnerability%20Discovery%20-%20D1T1%20-%20Richard%20Johnson%20-%20Slides%20(2017).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Hash%20and%20Displace%20-%20Efficient%20Evaluation%20of%20Minimum%20Perfect%20Hash%20Functions%20-%201999%20(10.1.1.148.7694).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Hash%20Functions%20for%20GPU%20Rendering%20-%202020%20(Jarzynski2020Hash).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Hash%20Tables%20-%20Jeff%20Erickson%20(2014).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Hash%2C%20Displace%2C%20and%20Compress%20(esa09).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Hashcash%20-%20A%20Denial%20of%20Service%20Counter-Measure%20(1st%20August%2C%202002).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "HASHI%20-%20An%20Application-Specific%20Instruction%20Set%20Extension%20for%20Hashing%20-%202014%20(adms14_arnold).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Haskell%20vs.%20F# vs. Scala - A High-Level Language Features and Parallelism Support Comparison (fhpc12).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Haswell%20Block%20Diagram.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "HAT-trie%20-%20A%20Cache-conscious%20Trie-based%20Data%20Structure%20for%20Strings%20-%202007%20(CRPITV62Askitis).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "HDF5%20-%20Taming%20Parallel%20IO%20Complexity%20with%20Auto-Tuning%20(P4091-0713_2).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Heapy%20-%20A%20Memory%20Profiler%20and%20Debugger%20for%20Python%20-%202006%20(heapy-thesis).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "HELIX-RC%20-%20An%20Architecture-Compiler%20Co-Design%20for%20Automatic%20Parallelization%20of%20Irregular%20Programs%20(campanoni14-isca).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Heracles%20-%20Improving%20Resource%20Efficiency%20at%20Scale%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Heracles-%20Improving%20Resource%20Efficiency%20at%20Scale%20(2015.heracles.isca).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "HexRaysCodeXplorer%20-%20Making%20Object-Oriented%20RE%20Easier%20-%20Slides%20(2013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "HexRaysCodeXplorer%20-%20Making%20Object-Oriented%20RE%20Easier%20-%20Slides%20(2014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Hidden%20Markov%20Model.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "High%20Performance%20Construction%20of%20RecSplit%20Based%20Minimal%20Perfect%20Hash%20Functions%20-19%20Dec%202022%20(2212.09562).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "High%20Performance%20Histograms%20on%20SIMT%20and%20SIMD%20Architectures%20-%20M.E.R.%20Berger%2C%20Master's%20Thesis%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "High%20Performance%20IO%20with%20NUMA%20Systems%20in%20Linux.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "High%20Speed%20Hashing%20for%20Integers%20and%20Strings%20-%202020%20(1504.06804).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "High%20Speed%20Hashing%20for%20Integers%20and%20Strings%20-%202022%20(1504.06804).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "High%20Throughput%20Heavy%20Hitter%20Aggregation%20for%20Modern%20SIMD%20Processors%20(damon13).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "High-performance%20Concurrency%20Control%20Mechanisms%20for%20Main-memory%20Databases%20(p298_per-akelarson_vldb2012).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Highly%20accurate%20protein%20structure%20prediction%20with%20AlphaFold%20(s41586-021-03819-2).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Highway%20-%20Intro.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Histograms%20-%20CUDA%20Handbook%20-%20Slides%20(2015).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Hoard%20-%20A%20Scalable%20Memory%20Allocator%20for%20Multithreaded%20Applications%20(berger-asplos2000).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "How%20Does%20a%20GPU%20Shader%20Work%20(2018).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "How%20fast%20can%20we%20make%20interpreted%20Python%20-%20NYU%20(2012).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "How%20Microsoft%20Builds%20Software%20(1997).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "How%20Not%20To%20Measure%20Latency%20-%20Gil%20Tene%20-%20LL%20Summit%20NYC%20(12-Nov-2013).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "How%20the%20VAX%20Lost%20Its%20POLY%20(and%20EMOD%20and%20ACB_floating%20too)%20(vax_poly).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "How%20to%20Benchmark%20Code%20Execution%20Times%20on%20Intel%20IA-32%20and%20IA-64%20Instruction%20Set%20Architectures%20-%20September%2C%202010%20(324264-001).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "How%20To%20Code%20In%20HTML5%20And%20CSS3%20-%20Damian%20Wielgosik.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "How%20To%20Overcome%20the%20GIL%20Limitations%20(While%20Staying%20In%20Python%20Ecosphere)%20-%20Francesc%20Alted%20(2011).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "How%20to%20Partition%20a%20Billion-Node%20Graph%20-%20Microsoft%20Research%20(2016).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "How%20to%20Read%20a%20Paper%20(Feb%2017th%202016).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "How%20to%20Test%2010G%20Ethernet%20-%20WhitePaper%20-%20Spirent%20(March%2C%202012).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "How%20to%20use%20Event%20Tracing%20for%20Windows%20for%20Performance%20Analysis.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "How%20to%20Write%20Fast%20Code%20-%20SIMD%20Vectorization%20-%20CMU%20-%202008%20-%20Slides%20(slides-18-645-simd).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "How%20To%20Write%20Fast%20Numerical%20Code%20-%20Slides%20(2011).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "How%20To%20Write%20Shared%20Libraries%20-%20v4.1.2%20(Drepper%2C%202001).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "How%20TokuDB%20Fractal%20Tree%20Databases%20Work%20Presentation.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "HTTP%20as%20the%20Narrow%20Waist%20of%20the%20Future%20Internet.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Huffman%20Coding%20-%20Slides%20(2012).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "HyperANF%20-%20Approximating%20the%20Neighbourhood%20Function%20of%20Very%20Large%20Graphs%20on%20a%20Budget%20(2011).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Hyperedge%20Replacement%20Graph%20Grammars.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Hypergraph%20Algorithms%20and%20Applications%20-%20CS6824%20-%20Slides%20%20(January%2022%2C%202014).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Hypergraph-Based%20Anomaly%20Detection%20in%20Very%20Large%20Networks%20-%202007%20(silva_willett_tpami07).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Hypergraphs%20-%20Algorithms%2C%20Implementations%2C%20and%20Applications%20-%20Poster%20(2015).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "HyperLogLog%20-%20The%20Analysis%20of%20a%20Near-Optimal%20Cardinality%20Estimation%20Algorithm%20(914-3045-2-PB).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Hyperparameter%20Optimization%20using%20Hyperopt%20-%20Slides%20(2016).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "I%20Got%2099%20Problems%20But%20a%20Kernel%20Pointer%20Ain't%20One%20-%20Recon%202013%20-%20Slides%20-%20Alex%20Ionescu.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "IBM%20DB2%20for%20i%20-%20Indexing%20Methods%20and%20Strategies.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "IBM%20Fibre%20Channel%20Basic%20Storage%20Area%20Network%20(SAN)%20Configuration%20Setup%20Guide.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "IcebergHT%20-%20High%20Performance%20PMEM%20Hash%20Tables%20Through%20Stability%20and%20Low%20Associativity%20(2210.04068).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "IDA Plug-in Writing in C-C++ - Version 1.1 - Steve Micallef (2009).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Ideal%20Hash%20Trees%20-%20Phil%20Bagwell%20-%20ACM.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "IDF%202012%20NVM%20Express%20and%20the%20PCI%20Express%20SSD%20Revolution.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "IEEE%20802.3ad%20Link%20Aggregation.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Image%20and%20Video%20Processing%20-%20Binary%20Encoding%20and%20Quantization%20(2016).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "IMP%20-%20Indirect%20Memory%20Prefetcher%20-%20MIT%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Implementation%20of%20a%20Vectorized%20Quicksort%20in%20AVX-512.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Implementing%20Algebraic%20Effects%20in%20C%2C%20or%2C%20Monads%20for%20Free%20in%20C%20-%202017%20(algeff-in-c-tr-v2).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Implementing%20Sorting%20in%20Databases%20(2006).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Improved%20Bounds%20For%20Covering%20Complete%20Uniform%20Hypergraphs%20-%20(April%203rd%2C%202007).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Improved%20Division%20by%20Invariant%20Integers.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Improved%20Fast%20Similarity%20Search%20in%20Dictionaries%20-%202010%20(1008.1191v2).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Improvement%20of%20Fitch%20function%20for%20Maximum%20Parsimony%20in%20Phylogenetic%20Reconstruction%20with%20Intel%20AVX2%20Assembler%20Instructions%20-%2024%20June%202013%20(TR20130624-1)..pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Improving%20Automated%20Analysis%20of%20Windows%20x64%20Binaries%20-%20Uninformed%20v4a1%20(April%202006).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Improving%20Compiler%20Optimization%20with%20Machine%20Learning%20(2014_Kulkarni_Sameer_PhD).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Improving%20Python's%20Memory%20Allocator%20-%20Evan%20Jones%20(2005).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Improving%20Real-Time%20Performance%20with%20CUDA%20Persistent%20Threads%20(CuPer)%20on%20the%20Jetson%20TX2%20-%20Concurrent%20Real-Time%20White%20Paper%20(2016).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Improving%20the%20speed%20of%20neural%20networks%20on%20CPUs%20(37631).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "In-memory%20Columnar%20Store%20for%20PostgreSQL%20(322_IMCS).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Incremental%20Construction%20of%20Minimal%20Acyclic%20Finite%20State%20Automata%20and%20Transducers.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Index%20Compression%20-%20Slides%20(2011).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Index%20Compression%20-%20Slides.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Index%20Internals%20-%20Rebuilding%20the%20Truth.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Index%20Search%20Algorithms%20for%20Databases%20and%20Modern%20CPUs%20-%20Florian%20Gloss%20(Nov%202010).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Induced%20subgraphs%20of%20hypercubes%20and%20a%20proof%20of%20the%20Sensitivity%20Conjecture%20(2019).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Infinite-Alphabet%20Prefix%20Codes%20Optimal%20for%20Beta-Exponential%20Penalties%20(10.1.1.560.4484).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Information%20Retrieval%20-%20Compression%2C%20Encoding%20-%20Slides%20-%20Cornell%20(2013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Information%20Theory%20for%20Intelligent%20People%20(2018).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Initial%20End-to-End%20Performance%20Evaluation%20of%2010-Gigabit%20Ethernet%20-%202003%20(hoti03).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "InK-Compact-%20In-Kernel%20Stream%20Compaction%20and%20Its%20Application%20to%20Multi-Kernel%20Data%20Visualization%20on%20General-Purpose%20GPUs%20-%202013.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Inline%20Function%20Expansion%20for%20Compiling%20C%20Programs%20-%201989%20(p246-chang).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Inside%20IOCP.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Inside%20The%20Deal%20That%20Made%20Bill%20Gates%20350%2C000%2C000%20(1986).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Inside%20the%20Python%20GIL%20-%20Dave%20Beazley%20(2009).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Instant%20Loading%20for%20Main%20Memory%20Databases%20-%202013%20(p1702-muehlbauer).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Instant%20Loading%20for%20Main%20Memory%20Databases%20-%20VLDB%20-%202013%2C%20Vol%206%2C%20No%2014%20(p1702-muehlbauer).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Instruction%20Matrix.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Integer%20Encoding%20-%20Chapter%209%20(2013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel 64 and IA-32 Architectures Software Developer\u2019s Manual V3 - Sept 2014 (325384-052US).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel Compiler Features + Performance Tips - Slides (2015) (IntelCompilerNERSC.201505013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20-%20A%20Novel%20Hashing%20Method%20Suitable%20for%20Lookup%20Functions%20%20(February%202012).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20-%20Advanced%20Vector%20Extensions%20(319433-014).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20-%20Advanced%20Vector%20Extensions%2010%20(AVX10)%20-%20(356368-intel-avx10-tech-paper).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20-%20Avoiding%20AVX-SSE%20Transition%20Penalties%20(11MC12_Avoiding_2BAVX-SSE_2BTransition_2BPenalties_2Brh_2Bfinal).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20-%20Cache%20Allocation%20Technology%20-%20Whitepaper%20(2015).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20-%20How%20to%20Benchmark%20Code%20Execution%20Times%20on%20Intel%20IA-32%20and%20IA-64%20Instruction%20Set%20Architectures%20(2010).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20-%20Improving%20Real-Time%20Performance%20by%20Utilizing%20Cache%20Allocation%20Technology%20-%20Whitepaper%20(April%202015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20-%20Mitigations%20for%20Jump%20Conditional%20Code%20Erratum%20-%20Revision%201.0%20(Nov%202019).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20-%20PMU%20Sharing%20Guidelines%20(30388).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20-%20Unleash%20the%20Power%20of%20AVX-512%20through%20Architecture%2C%20Compiler%20and%20Code%20Modernization%20-%20Slides%20-%20September%202012%20(2016-PACT-Intel-AVX512-Tutorial-v3.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20-%20_vectorcall%20and%20__regcall%20Demystified.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%205th%20Generation%20Processor%20Family%20-%20Specification%20Update%20-%20Revision%20029%20-%20July%202017%20(330836-029).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Optimization%20Reference%20Manual%20-%20April%202018%20(248966-040).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Optimization%20Reference%20Manual%20-%20April%202019%20(248966-041).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Optimization%20Reference%20Manual%20-%20December%202017%20(248966-039).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Optimization%20Reference%20Manual%20-%20June%202016%20(248966-033).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Optimization%20Reference%20Manual%20-%20May%202020%20(248966-043).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Optimization%20Reference%20Manual%20-%20Sept%202014%20(248966-030).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Performance%20Monitoring%20Events%20-%20Revision%201.0%20-%20December%202017%20(335279-001).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Combined%20Volumes%201-3%20-%20June%202016%20(325462-059US).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Combined%20Volumes%201-3%20-%20Sept%202014%20(325462-052US).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Combined%20Volumes%201-4%20-%20December%202017%20(325462-sdm-vol-1-2abcd-3abcd).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Combined%20Volumes%201-4%20-%20June%202021%20(325462-sdm-vol-1-2abcd-3abcd).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Combined%20Volumes%201-4%20-%20May%202018%20(325462-sdm-vol-1-2abcd-3abcd).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Combined%20Volumes%201-4%20-%20May%202019%20(325462-sdm-vol-1-2abcd-3abcd).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Combined%20Volumes%201-4%20-%20October%202019%20(325462-071US-sdm-vol-1-2abcd-3abcd).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Documentation%20Changes%20-%20June%202016%20(252046-051).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Documentation%20Changes%20-%20May%202019%20(252046-062).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Volume%202A%20-%20Instruction%20Set%20Reference%2C%20A-L%20-%20June%202016%20(253666-059US).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%2064%20and%20IA-32%20Architectures%20Software%20Developer's%20Manual%20-%20Volume%202B%20-%20Instruction%20Set%20Reference%2C%20M-U%20-%20June%202016%20(253667-059US).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Advanced%20Encryption%20Standard%20(AES)%20New%20Instructions%20Set%20-%20White%20Paper%20-%20Rev%203.0%2C%20May%202010%20(323641-001).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20Advanced%20Encryption%20Standard%20(AES)%20New%20Instructions%20Set.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Advanced%20Vector%20Extensions%2C%202015-2016%2C%20Support%20in%20GNU%20C%20Compiler%20Collection%2C%20GNU%20Tools%20Cauldron%202014%20(Cauldron14_AVX-512_Vector_ISA_Kirill_Yukhin_20.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20Architecture%20-%20Instruction%20Set%20Extensions%20and%20Future%20Features%20-%20Programming%20Reference%20(January%202018).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Architecture%20-%20Instruction%20Set%20Extensions%20and%20Future%20Features%20-%20Programming%20Reference%20-%20March%202020%20(319433-038).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Architecture%20-%20Instruction%20Set%20Extensions%20and%20Future%20Features%20-%20Programming%20Reference%20-%20May%202019%20(319433-037).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Architecture%20Code%20Analyzer%20-%20User's%20Guide%20-%20v3.0%20(2017).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference%20(319433-015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference%20(319433-017).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference%20-%20April%202017%20(319433-029).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference%20-%20Feb%202016%20(319433-024).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference%20-%20January%202018%20(319433-032).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference%20-%20Oct%202014%20(319433-022).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20Architecture%20Instruction%20Set%20Extensions%20Programming%20Reference%20-%20Sep%202016%20(319433-025).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20AVX-512%20-%20Permuting%20Data%20within%20and%20Between%20AVX%20Registers%20-%20Technology%20Guide%20(1668169807).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20AVX-512%20Architecture%20-%20Poster%20-%202013%20(Demikhovsky-Poster).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20AVX-512%20Instructions%20and%20Their%20Use%20in%20the%20Implementation%20of%20Math%20Functions%20-%20Slides%20(s1-cornea).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20Carry-Less%20Multiplication%20Instruction%20and%20its%20Usage%20for%20Computing%20the%20GCM%20Mode%20-%20Revision%202.0%20(323640-001%2C%20May%202010).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20Compiler%20Optimization%20and%20Building%20for%20KNL%20-%20Slides%20(2016).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Ethernet%20Controller%2082571EB%2C%2082572EI%2C%2082571GB%2C%2082571GI%20-%20Specification%20Update%20-%20Rev%206.8%20Nov%202014.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20IO%20Acceleration%20Technology%20(IOAT)%20Overview.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20IO%20Acceleration%20Technology%20Overview%20(2006).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Intel%20IO%20Acceleration%20Technology%20Overview.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Multimedia%20Instructions%20(MMX%2C%20SSE%2C%20SSE2%2C%20SSE3%20and%20SSE4)%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20PCI%20Express%20Ethernet%20Networking%20-%20White%20Paper%20-%20Sept%202005.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20Pro-1000%20PT%20Quad%20Port%20Bypass%20Server%20Adapter.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20Pro-1000%20PT%20Quad%20Port%20LP%20Server%20Adapter%20-%20Product%20Brief.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20SIMD%20-%20Austronomy%20and%20Space%20Science%20-%20Slides%20(DIFX_2014-SIMD).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20SIMD%20Architecture%20-%20Yung-Yu%20-%20UCONN%20(2007).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20Technical%20Journal%20-%20MMX%20(1997-vol01-iss-3-intel-technology-journal).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Xeon%20E5%20Product%20Family%20-%20Specification%20Update%20-%20Revision%20020%20-%20February%202017%20(326510-020).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Xeon%20Phi%20-%20System%20Software%20Developers%20Guide%20(Nov%202012).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Intel%20Xeon%20Phi%20Coprocessor%20Datasheet%20(April%202014).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20Xeon%20Processor%20E5%20v2%20and%20E7%20v2%20Product%20Families%20-%20Uncore%20Performance%20Monitoring%20-%20Reference%20Manual%20-%20February%202014%20(329468-002).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Intel%20Xeon%20Processor%20E7%20Family%20-%20Uncore%20Performance%20Monitoring%20-%20Programming%20Guide%20-%20April%202011%20(325294-001).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Intel%20Xeon%20Scalable%20Processor%20-%20Throughput%20Latency.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Interrupts%20in%20Linux%20-%20Slides%20(L07-LinuxEvents).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Interval%20hash%20tree%20-%20An%20efficient%20index%20structure%20for%20searching%20object%20queries%20in%20large%20image%20databases%20(caivd99).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Introduction%20to%20AMD%20GPU%20Programming%20with%20HIP%20-%202019%20(AMD_GPU_HIP_training_20190906).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Coccinelle%20(Slides).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Introduction%20to%20Debugging%20the%20FreeBSD%20Kernel%20-%20Paper%20-%20BSDCan%202008.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Debugging%20the%20FreeBSD%20Kernel%20-BSDCan%202008.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Introduction%20to%20DPDK%20-%20Slides%20(2015).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Dynamic%20Unary%20Encoding%20(Dec%2019%2C%202014).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Introduction%20to%20GPUs%20-%20CS378%20-%20Spring%202015%20-%20Slides.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Introduction%20to%20Intel%20Ethernet%20Flow%20Director.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Introduction%20to%20Machine%20Learning%20-%20CMU-10701%20-%20Deep%20Learning%20-%20Slides%20(Spring%202014).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Mathematics%20for%20Game%20Development%20-%20James%20Cowley%20%20(June%2023%2C%202016).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Parallel%20Architectures%20-%20Josep%20Torrellas%20-%20CS533%20(2012).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Probability%20and%20Statistics%20with%20R%20(IPSUR).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Python%20for%20Computational%20Science%20and%20Engineering%20-%20A%20Beginner's%20Guide%20-%20September%207th%2C%202015.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Random%20Graphs%20-%20Frieze%20and%20Karonski%20(Book).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Introduction%20to%20Random%20Graphs%20-%20Slides%20-%202015%20(Slides_TomaszLuczak1).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Introduction%20to%20the%20Pin%20Instrumentation%20Tool%20-%20Slides%20(27%20Mar%202013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Introduction%20to%20x64%20Assembly.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Introspection%20for%20C%20and%20its%20Applications%20to%20Library%20Robustness%20-%202017%20(1712.01163).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Investigation%20of%20Hardware%20Transactional%20Memory%20-%202015%20(Andrew-Nguyen-Thesis).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "IO%20is%20Faster%20Than%20the%20CPU%20-%20Let's%20Partition%20Resources%20and%20Eliminate%20(Most)%20OS%20Abstractions%20(parakernel-hotos19).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "IRON%20File%20Systems%20(iron-sosp05).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "It's%20Time%20for%20Low%20Latency%20(latency_hotos11).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Item-Based%20Collaborative%20Filtering%20Recommendation%20Algorithms.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Java%20Callstack%20Trace%20-%20HTTP%20to%20JDBC%20-%202006%20(jtrac-callstack).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "JavaScript%20-%20ECMA-262%20Standard%20(v5.1%2C%202011).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "JavaScript%20Cheat%20Sheet.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Join-Idle-Queue-%20A%20Novel%20Load%20Balancing%20Algorithm%20for%20Dynamically%20Scalable%20Web%20Services%20-%20October%201%2C%202011%20(idleq).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Joint Strike Fighter Air Vehicle C++ Coding Standards - Dec 2005 (Doc. 2RDU00001 Rev. C).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Jump%20Over%20ASLR%20-%20Attacking%20Branch%20Predictors%20to%20Bypass%20ASLR%20-%202016%20(micro16).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Jump%20the%20Queue%20to%20Lower%20Latency%20-%20USENIX%20-%20April%202015%20(login_apr15_02_grosvenor_041315).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Just-in-Time%20Static%20Type%20Checking%20for%20Dynamic%20Languages%20(1604.03641v1).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "K%20-%20A%20Rewriting-Based%20Framework%20for%20Computations%20(rosu-2007-tr-c).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Kam1n0%20-%20MapReduce-based%20Assembly%20Clone%20Search%20for%20Reverse%20Engineering%20-%202016%20(DFC16kdd).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "KAN%20-%20Kolmogorov-Arnold%20Networks%20(2404.19756v3).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "KASLR%20is%20Dead%20-%20Long%20Live%20KASLR%20(2017).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Keccak%20and%20the%20SHA-3%20Standardization%20-%20Slides%20(Feb%206th%2C%202013).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Kerncraft%20-%20A%20Tool%20for%20Analytic%20Performance%20Modeling%20of%20Loop%20Kernels%20-%202018%20(1702.04653).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Kernel%20Debugging%20with%20Windbg.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Kernel%20Patch%20Tutorial.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Kernel%20Pool%20Exploitation%20on%20Windows%207%20(16032-kernel-pool-exploitation-on-windows-7).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Kernel%20Pool%20Exploitation%20on%20Windows%207%20(BlackHat_DC_2011_Mandt_kernelpool-wp).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Kernel-Mode%20Driver%20Architecture%20Design%20Guide%20(Microsoft).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "KLAP%20-%20Kernel%20Launch%20Aggregation%20and%20Promotion%20for%20Optimizing%20Dynamic%20Parallelism%20(2016).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "KLEE%20-%20Unassisted%20and%20Automatic%20Generation%20of%20High-Coverage%20Tests%20for%20Complex%20Systems%20Programs%20(klee-osdi-2008).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Kmd%20Kit%20-%200x07%20Lookaside%20Lists.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "KMDF%20-%20How%20To%20Develop%20Framework%20Drivers%20-%20Microsoft%20-%20Slides%20(2007).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Know%20Your%20HTTP%20Status%20Codes.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "KQguard%20-%20Protecting%20Kernel%20Callback%20Queues%20-%202012%20(WRK_Tech_Report_03_12).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Language%20Models%20are%20Unsupervised%20Multitask%20Learners.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Latency%20and%20Bandwidth%20Impact%20on%20GPU%20Systems%20-%202008%20(ms-proj-gpgpu-latency-bandwidth).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "LATEX%20for%20Computer%20Scientists%20-%2015th%20May%202006.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Lazy%20and%20Speculative%20Execution%20-%20Microsoft%20Research%20-%20Slides%20(12th%20December%2C%202006).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Lazy%20Asynchronous%20IO%20for%20Event-Driven%20Servers.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Learned%20Monotone%20Minimal%20Perfect%20Hashing%20-%202023%20(2304.11012).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Learning%20a%20Hidden%20Hypergraph%20-%202006%20(angluin06a).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Learning%20Statistics%20with%20R%20(lsr-0.5).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Learning%20with%20Hypergraphs%20-%20Clustering%2C%20Classification%2C%20and%20Embedding%20(2017).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Learning-based%20Query%20Performance%20Modeling%20and%20Prediction%20(qperf-tr).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Lecture%2011%20-%20Programming%20on%20GPUs%20-%20Part%201%20-%20Slides%20(Lec-11-GPU).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Lecture%20Notes%20on%20AVL%20Trees%20-%20March%202011%20(18-avl).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Lecture%20Notes%20on%20Linear%20Algebra%20(2015).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Less%20Hashing%2C%20Same%20Performance%20-%20Building%20a%20Better%20Bloom%20Filter%20-%202008%20(10.1.1.152.579).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Let%20your%20GPU%20do%20the%20Heavy%20Lifting%20in%20your%20Data%20Warehouse%20-%20Slides%20-%202013%20(S3190-GPU-Heavy-Lifting-Data-Warehouse).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Leveraging%20Compression%20in%20In-Memory%20Databases%20-%202012%20(dbkda_2012_6_20_30160).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "LightGBM%20-%20A%20Highly-Efficient%20Gradient%20Boosting%20Decision%20Tree%20(2017).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Lightweight%20Contention%20Management%20for%20Efficient%20Compare-and-Swap%20Operations.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Linear%20Algebra%20-%20Jim%20Hefferon%20-%204th%20Ed.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Linear%20Algebra%20Abridged%20-%20Sheldon%20Axler%20(13th%20March%2C%202016).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Linear%20Algebra.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Linear%20Road%20-%20A%20Stream%20Data%20Management%20Benchmark%20(2004).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Linked%20List%20Problems%20-%20Stanford%20(2002).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Linux%20-%20FS%20Workshop.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Linux%20Block%20IO%20-%20Introducing%20Multi-queue%20SSD%20Access%20on%20Multicore%20Systems.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Linux%20Kernel%20Architecture%20for%20Device%20Drivers%20(Thomas%20Petazzoni).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Linux%20Productivity%20Tools%20-%20Slides%20-%202019%20(lisa19_maheshwari).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Linux%20Symposium%202004%20-%20All.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "LinuxCon%202009%20-%2010Gbs%20Bi-directional%20Routing.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "LLaMA%20-%20Open%20and%20Efficient%20Foundation%20Language%20Models%20-%2027%20Feb%202023%20(2302.13971).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "LMAX%20Disruptor%20-%20High%20performance%20alternative%20to%20bounded%20queues%20for%20exchanging%20data%20between%20concurrent%20threads%20(Disruptor-1.0).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Locality%20Exists%20in%20Graph%20Processing%20-%20Workload%20Characterization%20on%20an%20Ivy%20Bridge%20Server.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Lock-free%20Concurrent%20Data%20Structures%20-%2012%20Feb%202013%20(1302.2757).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Lockless%20Programming%20-%20GDC%202009%20-%20Slides%20(Bruce%20Dawson).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Locks%2C%20Deadlocks%20and%20Synchronization%20-%20Windows%20Hardware%20and%20Driver%20Central%20(2006).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Logistic%20Regression.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Lonestar-%20A%20Suite%20of%20Parallel%20Irregular%20Programs%20(ispass2009).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Long%20Gaps%20Between%20Primes%20-%202016%20(1412.5029).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Long-term%20Recurrent%20Convolutional%20Networks%20for%20Visual%20Recognition%20and%20Description%20(1411.4389v3).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Longest%20Common%20Extension%20with%20Recompression%20-%2016th%20Nov%202016%20(1611.05359).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Loop%20Independence%2C%20Compiler%20Vectorization%20and%20Threading%20of%20Loops%20(SSE%20and%20AVX)%20-%20Intel%20-%20Slides.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Lossless%20Compression%20in%20Lossy%20Compression%20Systems%20-%20Stanford%2C%20EE398A%20-%20Slides%20(01-EntropyLosslessCoding).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Lossless%20Source%20Coding%20(03_Lossless-Coding-WS12).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Lower%20Bound%20Techniques%20for%20Data%20Structures.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "LSM-trie%20-%20An%20LSM-tree-based%20Ultra-Large%20Key-Value%20Store%20for%20Small%20Data%20(wu15-lsm-trie).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "LSM-trie%20-%20An%20LSM-tree-based%20Ultra-Large%20Key-Value%20Store%20for%20Small%20Data%20-%20Slides%20(atc15_slides_wu).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Lynx%20-%20Using%20OS%20and%20Hardware%20Support%20for%20Fast%20Fine-Grained%20Inter-Core%20Communication%20(mitropoulou16-ics).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "M4%20-%20A%20Visualization-Oriented%20Time%20Series%20Data%20Aggregation%20(p797-jugel).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Mach%20-%20A%20New%20Kernel%20Foundation%20for%20UNIX%20Developers%20(accetta86).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Mach%20-%20A%20New%20Kernel%20Foundation%20for%20UNIX%20Developers%20(mach_usenix86).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Machine%20Learning%20-%20The%20High-Interest%20Credit%20Card%20of%20Technical%20Debt%20-%20Google%20(43146).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Magazines%20and%20Vmem-%20Extending%20the%20Slab%20Allocator%20to%20Many%20CPUs%20and%20Arbitrary%20Resources.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Maintaining%20Knowledge%20about%20Temporal%20Intervals%20-%201983.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Making%20Lockless%20Synchronization%20Fast%20-%20Performance%20Implications%20of%20Memory%20Reclamation%20(hart_ipdps06).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Making%20networking%20apps%20scream%20on%20Windows%20with%20DPDK.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Managing%20the%20Development%20of%20Large%20Software%20Systems%20-%201970%20(waterfall).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Managing%20the%20Google%20T1-5%20Relational%20Database%20(10.1.1.456.9390).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Managing%20Traffic%20with%20ALTQ.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Markov%20Chains%20and%20Random%20Walks.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "MARX - Uncovering Class Hierarchies in C++ Programs - (NDSS 2017).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Massively%20Parallel%20Sort-Merge%20Joins%20in%20Main%20Memory%20Multi-Core%20Database%20Systems%20-%202012%20(p1064_martina-cezaraalbutiu_vldb2012).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Massively-Parallel%20Similarity%20Join%2C%20Edge-Isoperimetry%2C%20and%20Distance%20Correlations%20on%20the%20Hypercube%20-%2015th%20Nov%202016%20(1611.04999).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Mastering%20the%20Game%20of%20Go%20with%20Deep%20Neural%20Networks%20and%20Tree%20Search.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Matchings%20in%203-uniform%20Hypergraphs%20(2012).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Matchings%20in%20k-partite%20k-uniform%20Hypergraphs%20(Feb%2017th%2C%202018).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Matchings%20in%20k-partite%20k-uniform%20Hypergraphs.pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Matchings%2C%20Hamilton%20Cycles%20and%20Cycle%20Packings%20in%20Uniform%20Hypergraphs%20-%202005%20(dmAE0154).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Math%20for%20Machine%20Learning%20(2009).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Mathematics%20Cheat%20Sheet.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Mathematics%20for%20Computer%20Science%20(2012).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Mathematics%20for%20Computer%20Science%20(2018).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Mathematics%20for%20Programmers%20(Early%20Draft).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Maximally%20Consistent%20Sampling%20and%20the%20Jaccard%20Index%20of%20Probability%20Distributions%20-%202018%20(1809.04052).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Maximizing%20File%20Transfer%20Performance%20Using%2010Gb%20Ethernet%20and%20Virtualization%20-%20FedEx%20Case%20Study%20-%20Intel%20(2010).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Maximizing%20GPU%20Throughput%20Across%20Multiple%20Streams%20-%20Tips%20and%20Tricks%20-%20Slides%20(s7393-chuck-seberino-maximizing-gpu).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Maximizing%20Performance%20of%20PC%20Games%20on%2064-bit%20Platforms%20(AMD_GDC_2005_Mike_Wall).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Measuring%20the%20Impact%20of%20Event%20Dispatching%20and%20Concurrency%20Models%20on%20Web%20Server%20Performance%20Over%20High-speed%20Networks.pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "MegaPipe%20-%20A%20New%20Programming%20Interface%20for%20Scalable%20Network%20IO.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Mellanox%20ConnectX-2%2010GbE%20Cards%20-%20Product%20Data%20Sheet.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Meltdown%20(2018).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Memory%20Barriers%20-%20a%20Hardware%20View%20for%20Software%20Hackers%20(July%2023%2C%202010).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Memory%20Efficient%20Hard%20Real-Time%20Garbage%20Collection%20(2003).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "Memory%20Ordering%20in%20Modern%20Microprocessors%20(ordering.2007.09.19a).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "Memory-Efficient%20Search%20Trees%20for%20Database%20Management%20Systems%20-%20Feb%202020%20-%20Thesis%20(CMU-CS-20-101).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "Mental%20models%2C%20Consistency%20and%20Programming%20Aptitude%20(CRPITV78Bornat).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "MGtoolkit%20-%20A%20Python%20Package%20for%20Implementing%20Metagraphs%20(2017).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "Microsoft%20Portable%20Executable%20and%20Common%20Object%20File%20Format%20Specification%20-%201999%20(pecoff).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "MIPSpro C and C++ Pragmas (007-3587-005).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "MIPSpro%20MIPSpro%20Assembly%20Language%20Programmer's%20Guide%20(007-2418-006).pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "MISTRAL%20-%20Processing%20Relational%20Queries%20Using%20a%20Multidimensional%20Access%20Method%20-%202000%20-%20Slides%20and%20Comments.pdf",
+    "method": "remove_pdf_markers"
+  },
+  {
+    "file": "MISTRAL%20-%20Processing%20Relational%20Queries%20Using%20a%20Multidimensional%20Access%20Method%20-%202000%20-%20Slides.pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "MMLSpark%20-%20Unifying%20Machine%20Learning%20Ecosystems%20at%20Massive%20Scales%20-%202019%20(1810.08744).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "MSDN%20-%20Compound%20Synchronization%20Objects%20(July%2021%2C%201994).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "MSDN%20-%20DLLs%20the%20Dynamic%20Way%20(November%2C%201999).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "MSDN%20-%20Emulating%20Operating%20System%20Synchronization%20(October%2C%201997).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "MSDN%20-%20Multithreading%20for%20Rookies%20(September%2024%2C%201993).pdf",
+    "method": "truncate_pdf"
+  },
+  {
+    "file": "MSDN%20-%20Multithreading%20Performance%20(January%2031%2C%201996).pdf",
+    "method": "randomly_corrupt_pdf"
+  },
+  {
+    "file": "MSDN%20-%20Writing%20Scalable%20Applications%20for%20Windows%20NT%20(Revision%201.0%20June%206%2C%201995).pdf",
+    "method": "corrupt_object_references"
+  },
+  {
+    "file": "MSDN%20-%20Writing%20Windows%20NT%20Server%20Applications%20in%20MFC%20Using%20IO%20Completion%20Ports%20(September%2C%201996).pdf",
+    "method": "corrupt_object_references"
+  }
+]

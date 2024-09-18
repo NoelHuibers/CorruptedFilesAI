@@ -1,3 +1,4 @@
+from model.run_model import run_pipeline
 from preprocessing.collectingpdfs import collect_pdfs, shorten_filenames
 from preprocessing.corrupting import (
     corrupt_object_references,
@@ -19,13 +20,16 @@ def main():
     # shorten_filenames()
     #
     # For corrupting the PDFs
-    corruption_methods = [
-        randomly_corrupt_pdf,
-        remove_pdf_markers,
-        truncate_pdf,
-        corrupt_object_references,
-    ]
-    corrupt_pdf_dataset("./input/corrupted", corruption_methods)
+    # corruption_methods = [
+    #     randomly_corrupt_pdf,
+    #     remove_pdf_markers,
+    #     truncate_pdf,
+    #     corrupt_object_references,
+    # ]
+    # corrupt_pdf_dataset("./input/corrupted", corruption_methods)
+
+    # RUN MODEL
+    run_pipeline("./input/pdfs", "./input/corrupted", 0.8)
 
 
 if __name__ == "__main__":

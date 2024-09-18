@@ -1,0 +1,9 @@
+Metric,Value
+Overall Accuracy,0.73
+
+Corruption Type,Detection Rate
+corrupt_object_references,1.00
+original,0.92
+randomly_corrupt_pdf,0.04
+remove_pdf_markers,1.00
+truncate_pdf,0.12

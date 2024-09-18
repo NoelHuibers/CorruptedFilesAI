@@ -1,0 +1,26 @@
+[project]
+authors = [{ name = "Noel Huibers", email = "noel@huibers.io" }]
+name = "CurroptedFilesAI"
+version = "0.0.2"
+description = "Detecting corrupted files using machine learning"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = 'LICENSE' }
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Natural Language :: English",
+  "Operating System :: Windows",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3 :: Only",
+]
+dependencies = ["PyPDF2==3.0.1", "scikit-learn==1.5.2", "numpy==2.1.1"]
+
+
+[tool.flake8]
+max-line-length = 88
+disable = ["E501", "E402", "E203", "W503"]

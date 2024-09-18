@@ -53,10 +53,6 @@ The original and corrupted PDFs are stored in the following directories:
 
 The preprocessing logic and tools to corrupt the files are located in the `src/preprocessing` folder, where the different modes of corruption are applied.
 
-### Features
-
-The model uses the Hexcode of all files as feature to learn
-
 ## Results
 
 After training, the model achieved the following performance:
